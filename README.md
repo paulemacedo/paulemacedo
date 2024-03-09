@@ -32,7 +32,7 @@
 <p align="left" style="background:purpl">
 
 
-<a href="https://linkedin.com/in/-paule" target="_blank">
+<a href="https://linkedin.com/in/paulemacedo" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 
 <a href="mailto:pauledev@proton.me" target="_blank">
