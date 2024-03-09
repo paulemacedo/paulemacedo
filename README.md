@@ -1,4 +1,4 @@
-<img align="right" height="690em" src="https://raw.githubusercontent.com/gist/paule-dev/6cc4c83764ec1f0185942e3d085f4a33/raw/bd21ed1c9db37e5123e45f3d984242e49a72795f/Githubcard.svg"/>
+<img align="right" height="690em" src="https://raw.githubusercontent.com/gist/paulemacedo/6cc4c83764ec1f0185942e3d085f4a33/raw/bd21ed1c9db37e5123e45f3d984242e49a72795f/Githubcard.svg"/>
 
 <h1 align="left">Hello world <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Paule Macedo</h1>
 
@@ -18,14 +18,38 @@
 
 
 
-<br>
+<br><br>
 
 ## 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)&nbsp;
 
+<br><br>
 
+## Contact
+
+<p align="left" style="background:purpl">
+
+
+<a href="https://linkedin.com/in/-paule" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+
+<a href="mailto:pauledev@proton.me" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-E--mail-05122A?style=flat&logo=protonmail"alt="linkedin"/>
+</p>
+
+
+
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulemacedo&layout=compact&theme=vision-friendly-dark" alt="Paule's most languages"/>
+<img width="430em" src="https://github-readme-stats.vercel.app/api?username=paulemacedo&show_icons=true&theme=vision-friendly-dark" alt="Paule's stats"/>
+
+</p>
 
 
 
@@ -60,19 +84,7 @@
 </p>
 -->
 
-<br>
 
-## Contact
-
-<p align="left" style="background:purpl">
-
-
-<a href="https://linkedin.com/in/-paule" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-
-<a href="mailto:pauledev@proton.me" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-E--mail-05122A?style=flat&logo=protonmail"alt="linkedin"/>
-</p>
 
 <!--
 
