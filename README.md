@@ -1,4 +1,4 @@
-<img align="right" height="690em" src="https://gist.githubusercontent.com/paulemacedo/6cc4c83764ec1f0185942e3d085f4a33/raw/6791cb42496256dd067c8aae4f01a54b1057caf7/Githubcard.svg"/>
+<img align="right" height="590em" src="https://gist.githubusercontent.com/paulemacedo/6cc4c83764ec1f0185942e3d085f4a33/raw/6791cb42496256dd067c8aae4f01a54b1057caf7/Githubcard.svg"/>
 
 <h1 align="left">Hello world <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Paule Macedo</h1>
 
