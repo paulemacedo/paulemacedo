@@ -8,13 +8,13 @@
 -->
 
 
-- 🧝🏽‍♀️ Software developer
+- 👨‍💻 Software developer
 
 - 🔭 I’m currently Studying at [CEFET/RJ](http://cefet-rj.br/index.php/)
 
 - 🌱 I’m currently learning **Python, Java, Cybersecurity**
 
-- 👨‍💻 More at [My Resume](https://paule-dev.github.io/cv/)
+- 📄 Know about my experiences [My Resume](https://paule-dev.github.io/cv/)
 
 
 
