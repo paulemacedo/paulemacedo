@@ -8,7 +8,7 @@
 -->
 
 
-- 👨‍💻 Software developer
+- 🧑🏾‍💻 Software developer at [RNP](https://www.rnp.br/)
 
 - 🔭 I’m currently Studying at [CEFET/RJ](http://cefet-rj.br/index.php/)
 
@@ -17,13 +17,14 @@
 - 📄 Know about my experiences [My Resume](https://paulemacedo.github.io/cv/)
 
 
-
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)&nbsp;
+![c++](https://img.shields.io/badge/-c++-05122A?style=flat&logo=cplusplus)&nbsp;
+![c](https://img.shields.io/badge/-c-05122A?style=flat&logo=c)&nbsp;
 
 <br><br>
 
