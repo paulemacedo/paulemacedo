@@ -42,7 +42,7 @@
   <img align="center" src="https://img.shields.io/badge/-E--mail-05122A?style=flat&logo=protonmail"alt="protonmail"/>
 
 <a href="https://twitter.com/Paulemacedo" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-x-05122A?style=flat&logo=x"alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=x"alt="linkedin"/>
 </p>
 
 <!--
