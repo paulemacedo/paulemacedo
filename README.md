@@ -1,6 +1,6 @@
 <img align="right" height="550em" src="https://gist.githubusercontent.com/paulemacedo/6cc4c83764ec1f0185942e3d085f4a33/raw/52844a993670a294744f3698d817f97b3f1d54fe/Githubcard.svg"/>
 
-<h1 align="left">Hello world <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Paule Macedo</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Paule Macedo</h1>
 
 <!--
 <h1 align="left">Hello world <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Paule Mello</h1>
