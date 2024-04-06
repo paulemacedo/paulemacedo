@@ -18,8 +18,14 @@
 
 
 <br>
+<h3 align="left">Connect with me!</h3>
 
-## 🛠 &nbsp;Tech Stack
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=f44d53&color:FFF)](mailto:pauledev@proton.me)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=f44d53&color:FFF)](https://www.linkedin.com/in/paulemacedo/)
+[![Instagram](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=x&logoColor=f44d53&color:FFF)](https://twitter.com/Paulemacedo)
+<br>
+
+<h3 align="left">My Stack</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="35" alt="python logo"  />
@@ -36,23 +42,6 @@
   <img width="8" />
 
 </div>
-
-<br>
-
-## Contact
-
-<p align="left" style="background:purple">
-
-
-<a href="https://linkedin.com/in/paulemacedo" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-
-  <a href="https://twitter.com/Paulemacedo" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=x"alt="linkedin"/>
-
-<a href="mailto:pauledev@proton.me" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-E--mail-05122A?style=flat&logo=protonmail"alt="protonmail"/>
-</p>
 
 <!--
 
@@ -99,17 +88,23 @@
 <!--
 
 ## Contact
+<p align="left" style="background:purple">
+
+<a href="https://linkedin.com/in/paulemacedo" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+  <a href="https://twitter.com/Paulemacedo" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=x"alt="linkedin"/>
+</a>
+<a href="mailto:pauledev@proton.me" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-E--mail-05122A?style=flat&logo=protonmail"alt="protonmail"/>
+</a>
 
 <p align="left" style="background:yellow">
 <a href="https://codepen.io/maykbrito" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
-<a href="https://twitter.com/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
+
 <a href="https://instagram.com/maykbrito" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
