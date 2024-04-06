@@ -4,9 +4,7 @@
 
 <!--
 <h1 align="left">Hello world <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Paule Mello</h1>
-
 -->
-
 
 - 🧑🏾‍💻 Software developer at [RNP](https://www.rnp.br/)
 
@@ -16,8 +14,6 @@
 
 - 📄 Know about my experiences [My Resume](https://paulemacedo.github.io/cv/)
 
-
-<br>
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=f44d53&color:FFF)](mailto:pauledev@proton.me)
@@ -28,20 +24,24 @@
 <h3 align="left">My Stack</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="35" alt="python logo"  />
+  
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="35" alt="python logo"/>](https://python.org/)
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" height="35" alt="Lua logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="35" alt="java logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="35" alt="C++ logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="35" alt="java logo"  />
-  <img width="8" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" height="35" alt="spring logo"  />
-  <img width="8" />
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" height="35" alt="Lua logo"/>](https://www.lua.org/)
+  <img width="10" />
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="35" alt="java logo"/>](https://www.java.com/)
+  <img width="10" />
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="35" alt="C++ logo"/>](https://www.w3schools.com/cpp/cpp_intro.asp)
+  <img width="10" />
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="35" alt="C logo"/>](https://www.w3schools.com/c/c_intro.php)  <img width="10" /> 
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" height="35" alt="Gimp logo" />](https://www.gimp.org/)
+  <img width="10" />
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" height="35" alt="Davinci Resolve logo"/>](https://www.blackmagicdesign.com/br/products/davinciresolve)
+  <img width="10" />
 
 </div>
+
+
 
 <!--
 
@@ -59,59 +59,19 @@
 ![c](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
-
-
-
-
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
+<h3>GitHub Stats</h3>
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulemacedo&layout=compact&theme=vision-friendly-dark" alt="Paule's most languages"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=paulemacedo&show_icons=true&theme=vision-friendly-dark" alt="Paule's stats"/>
-</p>
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=paulemacedo&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&border_radius=3&theme=synthwave)
+[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mari4souza&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&theme=synthwave&border_radius=3&count_private=true)](https://github.com/paulemacedo/github-readme-stats)
+<br>
+
 -->
 
 
 
 <!--
-
-## Contact
-<p align="left" style="background:purple">
-
-<a href="https://linkedin.com/in/paulemacedo" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-  <a href="https://twitter.com/Paulemacedo" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=x"alt="linkedin"/>
-</a>
-<a href="mailto:pauledev@proton.me" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-E--mail-05122A?style=flat&logo=protonmail"alt="protonmail"/>
-</a>
-
-<p align="left" style="background:yellow">
-<a href="https://codepen.io/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
-
-<a href="https://instagram.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://youtube.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>
-</p>
 
 <img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
 
