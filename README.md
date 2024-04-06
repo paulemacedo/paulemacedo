@@ -20,13 +20,22 @@
 <br>
 
 ## 🛠 &nbsp;Tech Stack
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=Lua)&nbsp;
-![NCL](https://img.shields.io/badge/-NCL-05122A?style=flat)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)&nbsp;
-![c++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)&nbsp;
-![c](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="35" alt="python logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" height="35" alt="Lua logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="35" alt="java logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="35" alt="C++ logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="35" alt="java logo"  />
+  <img width="8" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" height="35" alt="spring logo"  />
+  <img width="8" />
+
+</div>
 
 <br>
 
@@ -53,6 +62,13 @@
 
 ![Kali](https://img.shields.io/badge/-kali%20Linux-05122A?style=flat&logo=kalilinux)&nbsp;
 
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=Lua)&nbsp;
+![NCL](https://img.shields.io/badge/-NCL-05122A?style=flat)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)&nbsp;
+![c++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)&nbsp;
+![c](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
