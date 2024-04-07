@@ -68,7 +68,7 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=paulemacedo&theme=tokyonight-duo" alt="paulemacedo" /></p>
 
-
+<a href="https://github.com/paulemacedo/github-contributor-stats">![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=paulemacedo&combine_all_yearly_contributions=true&hide=B,B+&theme=tokyonight)</a>
 
 <br>
 
