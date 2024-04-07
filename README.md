@@ -1,5 +1,7 @@
 <img align="right" height="550em" src="https://gist.githubusercontent.com/paulemacedo/6cc4c83764ec1f0185942e3d085f4a33/raw/52844a993670a294744f3698d817f97b3f1d54fe/Githubcard.svg"/>
 
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=f44d53&random=false&width=435&height=40&lines=Hi%2C+I+am+Paule+Macedo!)](https://git.io/typing-svg)
  
 - 🧑🏾‍💻 Software developer at [RNP](https://www.rnp.br/)
@@ -56,8 +58,18 @@
 
 <h3>GitHub Stats</h3>
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=paulemacedo&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&border_radius=3&theme=synthwave)
-[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mari4souza&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&theme=synthwave&border_radius=3&count_private=true)](https://github.com/paulemacedo/github-readme-stats)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=paulemacedo&label=Profile%20views&color=blueviolet&style=flat" alt="paulemacedo" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paulemacedo" alt="paulemacedo" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulemacedo&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="paulemacedo" /></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=paulemacedo&theme=tokyonight&show_icons=true&locale=en" alt="paulemacedo" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=paulemacedo&theme=tokyonight-duo" alt="paulemacedo" /></p>
+
+
+
 <br>
 
 -->
