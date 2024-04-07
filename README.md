@@ -1,11 +1,7 @@
 <img align="right" height="550em" src="https://gist.githubusercontent.com/paulemacedo/6cc4c83764ec1f0185942e3d085f4a33/raw/52844a993670a294744f3698d817f97b3f1d54fe/Githubcard.svg"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=f44d53&random=false&width=435&height=40&lines=Hi%2C+I+am+Paule+Macedo!)](https://git.io/typing-svg)
-
-<!--
-<h1 align="left">Hello world <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Paule Mello</h1>
--->
-
+ 
 - 🧑🏾‍💻 Software developer at [RNP](https://www.rnp.br/)
 
 - 🔭 I’m currently Studying at [CEFET/RJ](http://cefet-rj.br/index.php/)
@@ -14,12 +10,12 @@
 
 - 📄 Know about my experiences [My Resume](https://paulemacedo.github.io/cv/)
 
+
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=f44d53&color:FFF)](mailto:pauledev@proton.me)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=f44d53&color:FFF)](https://www.linkedin.com/in/paulemacedo/)
-[![Instagram](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=x&logoColor=f44d53&color:FFF)](https://twitter.com/Paulemacedo)
-<br>
+[![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=x&logoColor=f44d53&color:FFF)](https://twitter.com/Paulemacedo)
 
 <h3 align="left">My Stack</h3>
 
@@ -40,24 +36,22 @@
   <img width="10" />
 
 </div>
+<BR><BR>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=paulemacedo&theme=tokyonight-duo" alt="paulemacedo" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulemacedo&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="paulemacedo" /></p>
 
 
 
 <!--
 
 <br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=paulemacedo&theme=tokyonight&show_icons=true&locale=en" alt="paulemacedo" /></p>
 
 ## 🛠 &nbsp;Tech Stack
 
 ![Kali](https://img.shields.io/badge/-kali%20Linux-05122A?style=flat&logo=kalilinux)&nbsp;
-
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=Lua)&nbsp;
-![NCL](https://img.shields.io/badge/-NCL-05122A?style=flat)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)&nbsp;
-![c++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)&nbsp;
-![c](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <br><br>
 
@@ -89,14 +83,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-
-
-
-
-<!--
-<h1 align="center">Hey 👋, I'm Paule Mello</h1>
-<p align="center"> <img src="https://github.com/Dhampirkid/Paule/blob/main/263586054-e873e08d-e2d1-45c0-a0c6-31710a5df0c6.gif" width="1000">
-<h3 align="center">A Software developer from Brazil</h3>
 -->
