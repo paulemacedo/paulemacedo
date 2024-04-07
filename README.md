@@ -36,11 +36,9 @@
   <img width="10" />
 
 </div>
-<BR>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulemacedo&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="paulemacedo" /></p>
+<h3 align="left">My Stack</h3>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=paulemacedo&card_width=455&theme=tokyonight-duo" alt="paulemacedo" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=paulemacedo&theme=tokyonight&show_icons=true&locale=en" alt="paulemacedo" /></p>
 
 
 
