@@ -38,7 +38,7 @@
 </div>
 <h3 align="left">My Stats</h3>
 
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=paulemacedo&card_width=440&theme=tokyonight-duo" alt="paulemacedo" /></p>
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=paulemacedo&card_width=450&theme=tokyonight-duo" alt="paulemacedo" /></p>
 
 
 
