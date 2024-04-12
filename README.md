@@ -36,14 +36,11 @@
   <img width="10" />
 
 </div>
+
 <h3 align="left">My Stats</h3>
 
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=paulemacedo&card_width=450&theme=tokyonight-duo" alt="paulemacedo" />
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=paulemacedo&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="paulemacedo" /></p> <br>
-
-
-
+ 
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=paulemacedo&card_width=450&theme=tokyonight-duo" alt="paulemacedo"</p>
 
 
 <!--
