@@ -1,7 +1,5 @@
 <img align="right" height="550em" src="https://gist.githubusercontent.com/paulemacedo/6cc4c83764ec1f0185942e3d085f4a33/raw/52844a993670a294744f3698d817f97b3f1d54fe/Githubcard.svg"/>
 
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=f44d53&random=false&width=435&height=40&lines=Hi%2C+I+am+Paule+Macedo!)](https://git.io/typing-svg)
  
 - 🧑🏾‍💻 Software developer at [RNP](https://www.rnp.br/)
@@ -41,6 +39,7 @@
 <h3 align="left">My Stats</h3>
 
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=paulemacedo&card_width=450&theme=tokyonight-duo" alt="paulemacedo" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulemacedo&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="paulemacedo" /></p>
 
 
 
