@@ -11,18 +11,14 @@
 - 📄 Know about my experiences [My Resume](https://paulemacedo.github.io/cv/)
 
 
-<h3 align="left">Connect with me!</h3>
-
+### Connect with me!
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=f44d53&color:FFF)](mailto:pauledev@proton.me)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=f44d53&color:FFF)](https://www.linkedin.com/in/paulemacedo/)
 [![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=x&logoColor=f44d53&color:FFF)](https://twitter.com/Paulemacedo)
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-000?style=for-the-badge&logo=TryHackMe&logoColor=f44d53&color:FFF)](https://tryhackme.com/p/paulemacedo)
 
 
-<h3 align="left">My Stack</h3>
-
-<div align="left">
-  
+### My Stack  
   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="35" alt="python logo"/>](https://python.org/)
   <img width="10" />
   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" height="35" alt="Lua logo"/>](https://www.lua.org/)
@@ -37,11 +33,8 @@
  [<img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" height="35" alt="Davinci Resolve logo"/>](https://www.blackmagicdesign.com/br/products/davinciresolve)
   <img width="10" />
 
-</div>
 
-<h3 align="left">My Stats</h3>
-
- 
+### My Stats 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=paulemacedo&card_width=450&theme=tokyonight-duo" alt="paulemacedo"</p>
 
 
