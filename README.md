@@ -15,6 +15,7 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=f44d53&color:FFF)](mailto:pauledev@proton.me)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=f44d53&color:FFF)](https://www.linkedin.com/in/paulemacedo/)
 [![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=x&logoColor=f44d53&color:FFF)](https://twitter.com/Paulemacedo)
+<img src="https://tryhackme-badges.s3.amazonaws.com/paulemacedo.png" alt="TryHackMe">
 
 
 ### My Stack  
