@@ -16,7 +16,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=f44d53&color:FFF)](https://www.linkedin.com/in/paulemacedo/)
 [![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=x&logoColor=f44d53&color:FFF)](https://twitter.com/Paulemacedo)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/paulemacedo.png" alt="TryHackMe">
 
 ### My Stack  
   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="35" alt="python logo"/>](https://python.org/)
