@@ -31,7 +31,6 @@
  [<img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" height="35" alt="Davinci Resolve logo"/>](https://www.blackmagicdesign.com/br/products/davinciresolve)
   <img width="10" />
 
-
 ### My Stats 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=paulemacedo&card_width=450&theme=tokyonight-duo" alt="paulemacedo"</p>
  
