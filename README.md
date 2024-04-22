@@ -1,4 +1,4 @@
-<img align="right" height="550em" src="https://gist.githubusercontent.com/paulemacedo/6cc4c83764ec1f0185942e3d085f4a33/raw/52844a993670a294744f3698d817f97b3f1d54fe/Githubcard.svg"/>
+<img align="right" height="550em" src="https://gist.githubusercontent.com/paulemacedo/6cc4c83764ec1f0185942e3d085f4a33/raw/95ce94c6f69fbe2bd7bc82f561aaf2a99d0ede92/Githubcard.svg"/>
 
 ### [![Paule Macedo](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=f44d53&random=false&width=435&height=40&lines=Hi%2C+I+am+Paule+Macedo!)]()
  
