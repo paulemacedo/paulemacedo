@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python, Java, Cybersecurity**
 
-- 📄 Know about my experiences [My Resume](https://paulemacedo.github.io/cv/)
+- 📄 Know about my experiences [My Portifólio](https://paulemacedo.github.io/cv/)
 
 
 ### Connect with me!
