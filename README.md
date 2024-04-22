@@ -1,5 +1,6 @@
 <img align="right" height="530em" src="https://gist.githubusercontent.com/paulemacedo/6cc4c83764ec1f0185942e3d085f4a33/raw/95ce94c6f69fbe2bd7bc82f561aaf2a99d0ede92/Githubcard.svg"/>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=paulemacedo&label=Profile%20views&color=orange&style=flat" alt="paulemacedo" /> </p>
 
 ### [![Paule Macedo](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=f44d53&random=false&width=450&height=40&lines=Hi%2C+I+am+Paule+Macedo!;I'm+a+Cybersecurity+Enthusiast;I+am+a+Software+Developer)]()
 
