@@ -1,6 +1,9 @@
 <img align="right" height="530em" src="https://gist.githubusercontent.com/paulemacedo/6cc4c83764ec1f0185942e3d085f4a33/raw/95ce94c6f69fbe2bd7bc82f561aaf2a99d0ede92/Githubcard.svg"/>
 
+
 ### [![Paule Macedo](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=f44d53&random=false&width=450&height=40&lines=Hi%2C+I+am+Paule+Macedo!;I'm+a+Cybersecurity+Enthusiast;I+am+a+Software+Developer)]()
+
+
 - 🧑🏾‍💻 Software developer at [RNP](https://www.rnp.br/)
 - 🔭 I’m currently Studying at [CEFET/RJ](http://cefet-rj.br/index.php/)
 - 🌱 I’m currently learning **Python, Java, Cybersecurity**
@@ -30,9 +33,9 @@
  [<img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" height="35" alt="Davinci Resolve logo"/>](https://www.blackmagicdesign.com/br/products/davinciresolve)
   <img width="10" />
 
+
 ### My Stats 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=paulemacedo&card_width=450&theme=tokyonight-duo" alt="paulemacedo"</p>
- 
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=paulemacedo&card_width=450&theme=tokyonight-duo" alt="paulemacedo"/><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulemacedo&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="paulemacedo" />
 
 
 
