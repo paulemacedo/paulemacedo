@@ -18,6 +18,22 @@
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-000?style=for-the-badge&logo=TryHackMe&logoColor=f44d53&color:FFF)](https://tryhackme.com/p/paulemacedo)
 
 ### My Stack 
+[![My Skills](https://skillicons.dev/icons?i=py,linux,bash,github,git,java,lua,c,cpp)](https://skillicons.dev)
+
+
+
+
+### My Stats 
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=paulemacedo&card_width=440&theme=tokyonight-duo" alt="paulemacedo"/>
+<img height=196 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulemacedo&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="paulemacedo" />
+
+
+
+<!--
+
+<br><br>
+
+## 🛠 &nbsp;Tech Stack
   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="35" alt="python logo"/>](https://python.org/)
   <img width="10" />
   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" height="35" alt="python logo"/>](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
@@ -33,19 +49,6 @@
   <img width="10" />
  [<img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" height="35" alt="Davinci Resolve logo"/>](https://www.blackmagicdesign.com/br/products/davinciresolve)
   <img width="10" />
-
-
-### My Stats 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=paulemacedo&card_width=440&theme=tokyonight-duo" alt="paulemacedo"/>
-<img height=196 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulemacedo&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="paulemacedo" />
-
-
-
-<!--
-
-<br><br>
-
-## 🛠 &nbsp;Tech Stack
 
 ![Kali](https://img.shields.io/badge/-kali%20Linux-05122A?style=flat&logo=kalilinux)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
