@@ -19,8 +19,8 @@
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-000?style=for-the-badge&logo=TryHackMe&logoColor=f44d53&color:FFF)](https://tryhackme.com/p/paulemacedo)
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Technologies I use in my day-to-day
-[![My Skills](https://skillicons.dev/icons?i=py,java,lua,c,cpp)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,lua,html,css,js,c,cpp)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,github,git,figma)](https://skillicons.dev)
 
 
 
