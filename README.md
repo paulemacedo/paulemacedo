@@ -18,7 +18,9 @@
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-000?style=for-the-badge&logo=TryHackMe&logoColor=f44d53&color:FFF)](https://tryhackme.com/p/paulemacedo)
 
 ### My Stack 
-[![My Skills](https://skillicons.dev/icons?i=py,linux,bash,github,git,java,lua,c,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,lua,c,cpp)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,github,git)](https://skillicons.dev)
 
 
 
