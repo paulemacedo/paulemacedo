@@ -19,7 +19,7 @@
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-000?style=for-the-badge&logo=TryHackMe&logoColor=f44d53&color:FFF)](https://tryhackme.com/p/paulemacedo)
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Technologies I use in my day-to-day
-[![My Skills](https://skillicons.dev/icons?i=py,java,lua,html,css,js,c,cpp,linux,bash,github,git,figma&perline=8)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=py,java,lua,html,css,js,c,cpp,linux,bash,github,git,figma,yarn&perline=8)](https://skillicons.dev) 
 
 ### My Stats 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=paulemacedo&card_width=440&theme=tokyonight-duo" alt="paulemacedo"/>
