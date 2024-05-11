@@ -5,7 +5,7 @@
 ### [![Paule Macedo](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=f44d53&random=false&width=450&height=40&lines=Hi%2C+I+am+Paule+Macedo!;I'm+a+Cybersecurity+Enthusiast;I+am+a+Software+Developer)]()
 
 
-- 🧑🏾‍💻 Software developer at [RNP](https://www.rnp.br/)
+- 🧑🏾‍💻 Undergraduate Researcher at [RNP](https://www.rnp.br/)
 - 🔭 I’m currently Studying at [CEFET/RJ](http://cefet-rj.br/index.php/)
 - 🌱 I’m currently learning **Python, Java, Cybersecurity**
 - 📄 Know about my experiences [My Portifólio](https://paulemacedo.github.io/cv/)
