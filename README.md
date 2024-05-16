@@ -15,10 +15,12 @@
 
 <!-- Networking -->
 ### Connect with me! 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=f44d53&color:FFF)](mailto:pauledev@proton.me)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=f44d53&color:FFF)](https://www.linkedin.com/in/paulemacedo/)
-[![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=x&logoColor=f44d53&color:FFF)](https://twitter.com/Paulemacedo)
-[![TryHackMe](https://img.shields.io/badge/-TryHackMe-000?style=for-the-badge&logo=TryHackMe&logoColor=f44d53&color:FFF)](https://tryhackme.com/p/paulemacedo)
+[![E-mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff)](mailto:pauledev@proton.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/paulemacedo/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=x&logoColor=white)]([#](https://twitter.com/Paulemacedo))
+[![Twitter](https://img.shields.io/badge/TryHackMe-740a0a.svg?logo=TryHackMe&logoColor=white)]([#](https://twitter.com/Paulemacedo))
+
+
 
 <!-- Skills & Tools -->
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Technologies I use in my day-to-day
