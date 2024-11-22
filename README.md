@@ -24,7 +24,7 @@
 
 <!-- Skills & Tools -->
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Technologies I use in my day-to-day
-[![My Skills](https://skillicons.dev/icons?i=py,linux,html,css,js,github,git,figma,c,cpp,java,lua&perline=8)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=py,linux,kali,html,css,js,github,git,figma,c,cpp,java,lua&perline=8)](https://skillicons.dev) 
 
 ### My Stats 
 <!-- Contador de Streaks -->
