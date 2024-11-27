@@ -25,7 +25,6 @@
     <img src="https://github.com/user-attachments/assets/607506e8-58ea-480b-8717-bd9f55ced59d" alt="Try hack Me" height="30"/>
   </a>
 </p>
-![Try hack Me]()
 
 ### ![About Me](https://github.com/user-attachments/assets/63bf751d-dedc-4fa6-bfdc-94c098da4cb7)
 <!-- Nome e Profissão -->
