@@ -18,16 +18,20 @@
 -->
 
 <p align="center">
-<a href="mailto:pauledev@proton.me" style="display: inline-block; margin: 0 10px;">
-    <img src="https://github.com/user-attachments/assets/cf5a47e9-3933-4fe6-91a0-bdadbf9a75e6" alt="Email" height="30"/>
-  </a>
+   <a href="mailto:pauledev@proton.me" style="display: inline-block; margin: 0 10px;">
+      <img src="https://github.com/user-attachments/assets/cf5a47e9-3933-4fe6-91a0-bdadbf9a75e6" alt="Email" height="30"/>
+   </a>
    <a href="https://www.linkedin.com/in/Paulemacedo/" style="display: inline-block; margin: 0 10px;">
-    <img src="https://github.com/user-attachments/assets/52c2f612-58ee-4d99-a94c-5dab21b611eb" alt="LinkedIn" height="30"/>
-  </a>
-  <a href="https://tryhackme.com/p/paulemacedo" style="display: inline-block; margin: 0 10px;">
-    <img src="https://github.com/user-attachments/assets/607506e8-58ea-480b-8717-bd9f55ced59d" alt="Try hack Me" height="30"/>
-  </a>
+      <img src="https://github.com/user-attachments/assets/52c2f612-58ee-4d99-a94c-5dab21b611eb" alt="LinkedIn" height="30"/>
+   </a>
+   <a href="https://tryhackme.com/p/paulemacedo" style="display: inline-block; margin: 0 10px;">
+      <img src="https://github.com/user-attachments/assets/607506e8-58ea-480b-8717-bd9f55ced59d" alt="Try hack Me" height="30"/>
+   </a>
+   <a href="" style="display: inline-block; margin: 0 10px;">
+      <img src="https://github.com/user-attachments/assets/3a84e998-db35-4689-94d6-c2f026cb6bc8" alt="Portifólio" height="30"/>
+   </a>
 </p>
+![Portifólio ]()
 
 ### ![About Me](https://github.com/user-attachments/assets/63bf751d-dedc-4fa6-bfdc-94c098da4cb7)
 <!-- Nome e Profissão -->
@@ -42,7 +46,7 @@
 ```
 
 <!-- Skills & Tools -->
-### ![Skills](https://github.com/user-attachments/assets/dd5c2c0f-05bc-430c-9f6b-32eeda4693f6)
+### ![Skills](https://github.com/user-attachments/assets/319f0b8f-b504-4dad-8f3c-f1bf5913fd99)
 [![My Skills](https://skillicons.dev/icons?i=py,linux,html,css,js,git,figma,c,cpp,java,lua&perline=40)](https://skillicons.dev)<br>
 [![My Tools](https://skillicons.dev/icons?i=kali,github,webstorm&perline=40)](https://skillicons.dev)
 
