@@ -11,8 +11,9 @@
 <!-- Nome e Profissão -->
 
 ### About Me
-<div style="display: flex; align-items: center; justify-content: flex-end;">
-  <pre style="margin-right: 20px;">
+
+<div style="display: flex; align-items: center;">
+  <pre style="flex: 1;">
   {
     "Name": "Paule Macedo",
     "Pronouns": ["He/Him", "They/Them"],
@@ -21,8 +22,9 @@
     "Goals": "Currently looking for internship opportunities in Cybersecurity"
   }
   </pre>
-  <img src="https://via.placeholder.com/150" alt="Profile Image"/>
+  <img src="https://via.placeholder.com/150" alt="Profile Image" style="margin-left: 20px;" />
 </div>
+
 
 
 
