@@ -12,20 +12,24 @@
 
 
 
-<p align="center">
-   <a href="mailto:pauledev@proton.me" >
+
+
+<h6 align="center">
+   <a href="mailto:pauledev@proton.me">
       <img src="https://github.com/user-attachments/assets/cf5a47e9-3933-4fe6-91a0-bdadbf9a75e6" alt="Email" height="30"/>
    </a>
-   <a href="https://www.linkedin.com/in/Paulemacedo/" >
+   <a href="https://www.linkedin.com/in/Paulemacedo/">
       <img src="https://github.com/user-attachments/assets/52c2f612-58ee-4d99-a94c-5dab21b611eb" alt="LinkedIn" height="30"/>
    </a>
-   <a href="" >
+   <a href="">
       <img src="https://github.com/user-attachments/assets/3a84e998-db35-4689-94d6-c2f026cb6bc8" alt="Portifólio" height="30"/>
    </a>
    <a href="https://tryhackme.com/p/paulemacedo">
       <img src="https://github.com/user-attachments/assets/607506e8-58ea-480b-8717-bd9f55ced59d" alt="Try hack Me" height="30"/>
    </a>  
-</p>
+</h6>
+
+
 
 
 
