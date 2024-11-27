@@ -1,33 +1,56 @@
-<!-- Card Lateral -->
-<img align="right" height="530em" src="https://gist.githubusercontent.com/paulemacedo/6cc4c83764ec1f0185942e3d085f4a33/raw/95ce94c6f69fbe2bd7bc82f561aaf2a99d0ede92/Githubcard.svg"/>
 
 <!-- Contador de acessos -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paulemacedo&label=Profile%20views&color=orange&style=flat" alt="paulemacedo" /> </p>
+![Profile views](https://komarev.com/ghpvc/?username=paulemacedo&label=Profile%20views&color=432E54&style=flat)
+<h2 align="center">
+   <img src="https://github.com/user-attachments/assets/b1e3dd0d-b1db-4359-853e-75844209ae2a" alt="paulemacedo" />
+</h2>
 
-<!-- Nome e Profissão -->
-### [![Paule Macedo](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=f44d53&random=false&width=450&height=40&lines=Hi%2C+I+am+Paule+Macedo!;I'm+a+Cybersecurity+Enthusiast;I+am+a+Software+Developer)]()
 
-<!-- Apresentações -->
-- 🧑🏾‍💻 Undergraduate Researcher at [RNP](https://www.rnp.br/)
-- 🔭 I’m currently Studying at [CEFET/RJ](http://cefet-rj.br/index.php/)
-- 🌱 I’m currently learning **Python, Java, Cybersecurity**
-- 📄 Know about my experiences [My Portifólio](https://paulemacedo.github.io/cv/)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Jura&weight=600&size=25&pause=1000&color=4B4376&random=false&width=450&height=40&lines=I'm+a+Cybersecurity+Enthusiast;I+am+a+Software+Developer" alt="Paule Macedo">
+</p>
 
-<!-- Networking -->
-### Connect with me! 
+<!--
 [![E-mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff)](mailto:pauledev@proton.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/paulemacedo/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/Paulemacedo)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-740a0a.svg?logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/paulemacedo)
+-->
 
+<p align="center">
+<a href="mailto:pauledev@proton.me" style="display: inline-block; margin: 0 10px;">
+    <img src="https://github.com/user-attachments/assets/cf5a47e9-3933-4fe6-91a0-bdadbf9a75e6" alt="Email" height="30"/>
+  </a>
+   <a href="https://www.linkedin.com/in/Paulemacedo/" style="display: inline-block; margin: 0 10px;">
+    <img src="https://github.com/user-attachments/assets/52c2f612-58ee-4d99-a94c-5dab21b611eb" alt="LinkedIn" height="30"/>
+  </a>
+  <a href="https://tryhackme.com/p/paulemacedo" style="display: inline-block; margin: 0 10px;">
+    <img src="https://github.com/user-attachments/assets/607506e8-58ea-480b-8717-bd9f55ced59d" alt="Try hack Me" height="30"/>
+  </a>
+</p>
 
+### ![About Me](https://github.com/user-attachments/assets/63bf751d-dedc-4fa6-bfdc-94c098da4cb7)
+<!-- Nome e Profissão -->
+``` Json
+{
+  "Name": "Paule Macedo",
+  "Pronouns": ["He/Him", "They/Them"],
+  "Studying": "Computer Science at CEFET/RJ",
+  "Learning": ["Linux", "Networking", "Cybersecurity fundamentals"],
+  "Goals": "Currently looking for internship opportunities in Cybersecurity"
+}
+```
 
 <!-- Skills & Tools -->
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Technologies I use in my day-to-day
-[![My Skills](https://skillicons.dev/icons?i=py,linux,kali,html,css,js,github,git,figma,c,cpp,java,lua&perline=8)](https://skillicons.dev) 
+### ![Skills](https://github.com/user-attachments/assets/dd5c2c0f-05bc-430c-9f6b-32eeda4693f6)
+[![My Skills](https://skillicons.dev/icons?i=py,linux,html,css,js,git,figma,c,cpp,java,lua&perline=40)](https://skillicons.dev) 
 
-### My Stats 
-<!-- Contador de Streaks -->
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=paulemacedo&card_width=440&theme=tokyonight-duo" alt="paulemacedo"/>
-<!-- Most used Languages -->
+### ![Tools](https://github.com/user-attachments/assets/7275be61-0025-46f7-be80-f4ca7877a1de)
+[![My Tools](https://skillicons.dev/icons?i=kali,github,webstorm&perline=40)](https://skillicons.dev) 
+
+
+### ![Stats](https://github.com/user-attachments/assets/9141a83c-db95-4193-834a-cca9b63d66d4)
+<!-- Contador de Streaks --> 
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=paulemacedo&card_width=440&theme=tokyonight-duo" alt="paulemacedo"/> 
+<!-- Most used Languages --> 
 <img height=195 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulemacedo&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="paulemacedo" />
