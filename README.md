@@ -36,7 +36,7 @@
   "Name": "Paule Macedo",
   "Pronouns": ["He/Him", "They/Them"],
   "Studying": "Computer Science at CEFET/RJ",
-  "Learning": ["Linux", "Networking", "Cybersecurity fundamentals"],
+  "Learning": ["Linux", "Networking", "Cybersecurity"],
   "Goals": "Currently looking for internship opportunities in Cybersecurity"
 }
 ```
