@@ -43,10 +43,10 @@
 
 <!-- Skills & Tools -->
 ### ![Skills](https://github.com/user-attachments/assets/dd5c2c0f-05bc-430c-9f6b-32eeda4693f6)
-[![My Skills](https://skillicons.dev/icons?i=py,linux,html,css,js,git,figma,c,cpp,java,lua&perline=40)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=py,linux,html,css,js,git,figma,c,cpp,java,lua&perline=40)](https://skillicons.dev)<br>
+[![My Tools](https://skillicons.dev/icons?i=kali,github,webstorm&perline=40)](https://skillicons.dev)
 
-### ![Tools](https://github.com/user-attachments/assets/7275be61-0025-46f7-be80-f4ca7877a1de)
-[![My Tools](https://skillicons.dev/icons?i=kali,github,webstorm&perline=40)](https://skillicons.dev) 
+
 
 
 ### ![Stats](https://github.com/user-attachments/assets/9141a83c-db95-4193-834a-cca9b63d66d4)
