@@ -1,25 +1,27 @@
 
 <!-- Contador de acessos -->
-![Profile views](https://komarev.com/ghpvc/?username=paulemacedo&label=Profile%20views&color=orange&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=paulemacedo&label=Profile%20views&color=432E54&style=flat)
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=f44d53&random=false&width=450&height=40&lines=Hi%2C+I+am+Paule+Macedo!;I'm+a+Cybersecurity+Enthusiast;I+am+a+Software+Developer" alt="Paule Macedo">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=432E54&random=false&width=450&height=40&lines=Hi%2C+I+am+Paule+Macedo!;I'm+a+Cybersecurity+Enthusiast;I+am+a+Software+Developer" alt="Paule Macedo">
 </p>
 
-<!-- Networking -->
 <!--
-[![E-mail](https://go-skill-icons.vercel.app/api/icons?i=outlook)](mailto:paulo.macedo@aluno.cefet-rj.br)
-[![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/paulemacedo/)
-[![x](https://go-skill-icons.vercel.app/api/icons?i=x)](https://twitter.com/Paulemacedo)
--->
-
 [![E-mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff)](mailto:pauledev@proton.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/paulemacedo/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/Paulemacedo)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-740a0a.svg?logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/paulemacedo)
+-->
 
-
+<div style="text-align: center;">
+  <a href="mailto:seuemail@dominio.com">
+    <img src="https://github.com/user-attachments/assets/cf5a47e9-3933-4fe6-91a0-bdadbf9a75e6" alt="Email" height="30"/>
+  </a>
+  <a href="https://www.linkedin.com/in/seu-usuario/">
+    <img src="https://github.com/user-attachments/assets/52c2f612-58ee-4d99-a94c-5dab21b611eb" alt="LinkedIn" height="30"/>
+  </a>
+</div>
 
 <!-- Nome e Profissão -->
 ``` Json
