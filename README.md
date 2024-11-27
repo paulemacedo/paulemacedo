@@ -14,14 +14,15 @@
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-740a0a.svg?logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/paulemacedo)
 -->
 
-<div style="text-align: center;">
-  <a href="mailto:seuemail@dominio.com">
+<p align="center">
+<a href="mailto:seuemail@dominio.com" style="display: inline-block; margin: 0 10px;">
     <img src="https://github.com/user-attachments/assets/cf5a47e9-3933-4fe6-91a0-bdadbf9a75e6" alt="Email" height="30"/>
   </a>
-  <a href="https://www.linkedin.com/in/seu-usuario/">
+   <a href="https://www.linkedin.com/in/seu-usuario/" style="display: inline-block; margin: 0 10px;">
     <img src="https://github.com/user-attachments/assets/52c2f612-58ee-4d99-a94c-5dab21b611eb" alt="LinkedIn" height="30"/>
   </a>
-</div>
+</p>
+
 
 <!-- Nome e Profissão -->
 ``` Json
