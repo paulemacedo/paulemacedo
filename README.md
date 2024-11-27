@@ -47,9 +47,7 @@
 <!-- Skills & Tools -->
 ### ![Skills](https://github.com/user-attachments/assets/319f0b8f-b504-4dad-8f3c-f1bf5913fd99)
 [![My Skills](https://skillicons.dev/icons?i=py,linux,html,css,js,git,c,cpp,java,lua&perline=40)](https://skillicons.dev)<br>
-[![My Tools](https://skillicons.dev/icons?i=kali,webstorm,github,figma&perline=40)](https://skillicons.dev)
-
-
+![My Tools](https://go-skill-icons.vercel.app/api/icons?i=kali,webstorm,github,figma,vmwareworkstation&titles=true)
 
 
 ### ![Stats](https://github.com/user-attachments/assets/9141a83c-db95-4193-834a-cca9b63d66d4)
