@@ -37,19 +37,11 @@
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-740a0a.svg?logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/paulemacedo)
 
 
-
 <!-- Skills & Tools -->
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Technologies I use in my day-to-day
 [![My Skills](https://skillicons.dev/icons?i=py,linux,kali,html,css,js,github,git,figma,c,cpp,java,lua&perline=40)](https://skillicons.dev) 
 
-
-
 ### My Stats 
-<!-- Contador de Streaks -->
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=paulemacedo&card_width=440&theme=tokyonight-duo" alt="paulemacedo"/>
-<!-- Most used Languages -->
-<img height=195 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulemacedo&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="paulemacedo" />
-
 <!-- Contador de Streaks --> 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=paulemacedo&card_width=440&theme=tokyonight-duo" alt="paulemacedo"/> 
 <!-- Most used Languages --> 
