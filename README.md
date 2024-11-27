@@ -3,8 +3,29 @@
 ![Profile views](https://komarev.com/ghpvc/?username=paulemacedo&label=Profile%20views&color=orange&style=flat)
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=f44d53&random=false&width=450&height=40&lines=Hi%2C+I+am+Paule+Macedo!;I'm+a+Cybersecurity+Enthusiast;I+am+a+Software+Developer" alt="Paule Macedo">
+</p>
+
+
 <!-- Nome e Profissão -->
-### [![Paule Macedo](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=f44d53&random=false&width=450&height=40&lines=Hi%2C+I+am+Paule+Macedo!;I'm+a+Cybersecurity+Enthusiast;I+am+a+Software+Developer)]()
+
+### About Me
+<div style="display: flex; align-items: center; justify-content: flex-end;">
+  <pre style="margin-right: 20px;">
+  {
+    "Name": "Paule Macedo",
+    "Pronouns": ["He/Him", "They/Them"],
+    "Studying": "Computer Science at CEFET/RJ",
+    "Learning": ["Linux", "Networking", "Cybersecurity fundamentals"],
+    "Goals": "Currently looking for internship opportunities in Cybersecurity"
+  }
+  </pre>
+  <img src="https://via.placeholder.com/150" alt="Profile Image"/>
+</div>
+
+
+
 
 ``` Json
 {
@@ -18,6 +39,7 @@
 
 <!-- Networking -->
 ### Connect with me! 
+### Connect with me!
 
 <!--
 [![E-mail](https://go-skill-icons.vercel.app/api/icons?i=outlook)](mailto:paulo.macedo@aluno.cefet-rj.br)
@@ -36,8 +58,15 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Technologies I use in my day-to-day
 [![My Skills](https://skillicons.dev/icons?i=py,linux,kali,html,css,js,github,git,figma,c,cpp,java,lua&perline=40)](https://skillicons.dev) 
 
+
+
 ### My Stats 
 <!-- Contador de Streaks -->
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=paulemacedo&card_width=440&theme=tokyonight-duo" alt="paulemacedo"/>
 <!-- Most used Languages -->
+<img height=195 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulemacedo&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="paulemacedo" />
+
+<!-- Contador de Streaks --> 
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=paulemacedo&card_width=440&theme=tokyonight-duo" alt="paulemacedo"/> 
+<!-- Most used Languages --> 
 <img height=195 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulemacedo&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="paulemacedo" />
