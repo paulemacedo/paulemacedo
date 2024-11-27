@@ -1,6 +1,9 @@
 
 <!-- Contador de acessos -->
 ![Profile views](https://komarev.com/ghpvc/?username=paulemacedo&label=Profile%20views&color=432E54&style=flat)
+<h2 align="center">
+   <img src="https://github.com/user-attachments/assets/b1e3dd0d-b1db-4359-853e-75844209ae2a" alt="paulemacedo" />
+</h2>
 
 
 <p align="center">
