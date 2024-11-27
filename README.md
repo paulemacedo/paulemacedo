@@ -23,7 +23,7 @@
   </a>
 </p>
 
-### About Me
+### ![About Me](https://github.com/user-attachments/assets/63bf751d-dedc-4fa6-bfdc-94c098da4cb7)
 
 <!-- Nome e Profissão -->
 ``` Json
@@ -38,10 +38,16 @@
 
 
 <!-- Skills & Tools -->
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Technologies I use in my day-to-day
-[![My Skills](https://skillicons.dev/icons?i=py,linux,kali,html,css,js,github,git,figma,c,cpp,java,lua&perline=40)](https://skillicons.dev) 
+![Skills](https://github.com/user-attachments/assets/dd5c2c0f-05bc-430c-9f6b-32eeda4693f6)
 
-### My Stats 
+[![My Skills](https://skillicons.dev/icons?i=py,linux,html,css,js,git,figma,c,cpp,java,lua&perline=40)](https://skillicons.dev) 
+
+![Tools](https://github.com/user-attachments/assets/7275be61-0025-46f7-be80-f4ca7877a1de)
+
+[![My Tools](https://skillicons.dev/icons?i=kali,github,webstorm&perline=40)](https://skillicons.dev) 
+
+
+### ![Stats](https://github.com/user-attachments/assets/9141a83c-db95-4193-834a-cca9b63d66d4)
 <!-- Contador de Streaks --> 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=paulemacedo&card_width=440&theme=tokyonight-duo" alt="paulemacedo"/> 
 <!-- Most used Languages --> 
