@@ -15,16 +15,19 @@
 -->
 
 <p align="center">
-<a href="mailto:seuemail@dominio.com" style="display: inline-block; margin: 0 10px;">
+<a href="mailto:pauledev@proton.me" style="display: inline-block; margin: 0 10px;">
     <img src="https://github.com/user-attachments/assets/cf5a47e9-3933-4fe6-91a0-bdadbf9a75e6" alt="Email" height="30"/>
   </a>
-   <a href="https://www.linkedin.com/in/seu-usuario/" style="display: inline-block; margin: 0 10px;">
+   <a href="https://www.linkedin.com/in/Paulemacedo/" style="display: inline-block; margin: 0 10px;">
     <img src="https://github.com/user-attachments/assets/52c2f612-58ee-4d99-a94c-5dab21b611eb" alt="LinkedIn" height="30"/>
   </a>
+  <a href="https://tryhackme.com/p/paulemacedo" style="display: inline-block; margin: 0 10px;">
+    <img src="https://github.com/user-attachments/assets/607506e8-58ea-480b-8717-bd9f55ced59d" alt="Try hack Me" height="30"/>
+  </a>
 </p>
+![Try hack Me]()
 
 ### ![About Me](https://github.com/user-attachments/assets/63bf751d-dedc-4fa6-bfdc-94c098da4cb7)
-
 <!-- Nome e Profissão -->
 ``` Json
 {
@@ -36,14 +39,11 @@
 }
 ```
 
-
 <!-- Skills & Tools -->
-![Skills](https://github.com/user-attachments/assets/dd5c2c0f-05bc-430c-9f6b-32eeda4693f6)
-
+### ![Skills](https://github.com/user-attachments/assets/dd5c2c0f-05bc-430c-9f6b-32eeda4693f6)
 [![My Skills](https://skillicons.dev/icons?i=py,linux,html,css,js,git,figma,c,cpp,java,lua&perline=40)](https://skillicons.dev) 
 
-![Tools](https://github.com/user-attachments/assets/7275be61-0025-46f7-be80-f4ca7877a1de)
-
+### ![Tools](https://github.com/user-attachments/assets/7275be61-0025-46f7-be80-f4ca7877a1de)
 [![My Tools](https://skillicons.dev/icons?i=kali,github,webstorm&perline=40)](https://skillicons.dev) 
 
 
