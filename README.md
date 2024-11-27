@@ -10,12 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Jura&weight=600&size=25&pause=1000&color=4B4376&random=false&width=450&height=40&lines=I'm+a+Cybersecurity+Enthusiast;I+am+a+Software+Developer" alt="Paule Macedo">
 </p>
 
-<!--
-[![E-mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff)](mailto:pauledev@proton.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/paulemacedo/)
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/Paulemacedo)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-740a0a.svg?logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/paulemacedo)
--->
+
 
 <p align="center">
    <a href="mailto:pauledev@proton.me" style="display: inline-block; margin: 0 10px;">
@@ -29,10 +24,9 @@
    </a>
    <a href="https://tryhackme.com/p/paulemacedo" style="display: inline-block; margin: 0 10px;">
       <img src="https://github.com/user-attachments/assets/607506e8-58ea-480b-8717-bd9f55ced59d" alt="Try hack Me" height="30"/>
-   </a>
-   
+   </a>  
 </p>
-![Portifólio ]()
+
 
 ### ![About Me](https://github.com/user-attachments/assets/63bf751d-dedc-4fa6-bfdc-94c098da4cb7)
 <!-- Nome e Profissão -->
