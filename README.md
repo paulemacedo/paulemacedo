@@ -11,21 +11,6 @@
 <!-- Nome e Profissão -->
 
 ### About Me
-<div style="display: flex; align-items: center; justify-content: flex-end;">
-  <pre style="margin-right: 20px;">
-  {
-    "Name": "Paule Macedo",
-    "Pronouns": ["He/Him", "They/Them"],
-    "Studying": "Computer Science at CEFET/RJ",
-    "Learning": ["Linux", "Networking", "Cybersecurity fundamentals"],
-    "Goals": "Currently looking for internship opportunities in Cybersecurity"
-  }
-  </pre>
-  <img src="https://via.placeholder.com/150" alt="Profile Image"/>
-</div>
-
-
-
 
 ``` Json
 {
@@ -38,7 +23,6 @@
 ```
 
 <!-- Networking -->
-### Connect with me! 
 ### Connect with me!
 
 <!--
