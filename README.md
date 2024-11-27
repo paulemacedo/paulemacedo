@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=432E54&random=false&width=450&height=40&lines=Hi%2C+I+am+Paule+Macedo!;I'm+a+Cybersecurity+Enthusiast;I+am+a+Software+Developer" alt="Paule Macedo">
+  <img src="https://readme-typing-svg.demolab.com?font=Jura&weight=600&size=25&pause=1000&color=432E54&random=false&width=450&height=40&lines=Hi%2C+I+am+Paule+Macedo!;I'm+a+Cybersecurity+Enthusiast;I+am+a+Software+Developer" alt="Paule Macedo">
 </p>
 
 <!--
