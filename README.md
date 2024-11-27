@@ -1,11 +1,20 @@
 
 <!-- Contador de acessos -->
 ![Profile views](https://komarev.com/ghpvc/?username=paulemacedo&label=Profile%20views&color=orange&style=flat)
-![carbon-removebg.png](..%2F..%2F..%2F%C3%81rea%20de%20Trabalho%2Fcarbon-removebg.png)
+
+
 <!-- Nome e Profissão -->
 ### [![Paule Macedo](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=f44d53&random=false&width=450&height=40&lines=Hi%2C+I+am+Paule+Macedo!;I'm+a+Cybersecurity+Enthusiast;I+am+a+Software+Developer)]()
 
-
+``` Json
+{
+  "Name": "Paule Macedo",
+  "Pronouns": ["He/Him", "They/Them"],
+  "Studying": "Computer Science at CEFET/RJ",
+  "Learning": ["Linux", "Networking", "Cybersecurity fundamentals"],
+  "Goals": "Currently looking for internship opportunities in Cybersecurity"
+}
+```
 
 <!-- Networking -->
 ### Connect with me! 
