@@ -10,20 +10,6 @@
 
 <!-- Nome e Profissão -->
 
-### About Me
-<div style="display: flex; align-items: center;">
-  <img src="https://via.placeholder.com/150" alt="Profile Image" style="margin-right: 20px;"/>
-  <pre>
-  {
-    "Name": "Paule Macedo",
-    "Pronouns": ["He/Him", "They/Them"],
-    "Studying": "Computer Science at CEFET/RJ",
-    "Learning": ["Linux", "Networking", "Cybersecurity fundamentals"],
-    "Goals": "Currently looking for internship opportunities in Cybersecurity"
-  }
-  </pre>
-</div>
-
 
 ``` Json
 {
@@ -36,7 +22,6 @@
 ```
 
 <!-- Networking -->
-### Connect with me! 
 ### Connect with me!
 
 <!--
@@ -64,7 +49,3 @@
 <!-- Most used Languages -->
 <img height=195 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulemacedo&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="paulemacedo" />
 
-<!-- Contador de Streaks --> 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=paulemacedo&card_width=440&theme=tokyonight-duo" alt="paulemacedo"/> 
-<!-- Most used Languages --> 
-<img height=195 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulemacedo&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="paulemacedo" />
