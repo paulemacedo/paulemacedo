@@ -30,13 +30,30 @@
    </h6>
 </div>
 
+
+
+
 <!-- About Me -->
 ### [![About Me](https://github.com/user-attachments/assets/63bf751d-dedc-4fa6-bfdc-94c098da4cb7)](https://github.com/paulemacedo#)
+
+<img align="right" alt="Umbreon" src="https://github.com/user-attachments/assets/93c0ec7c-9b21-4e1b-b9b0-5766e4b75c58" width="200px"/>
+
+```json
+{
+  "Name": "Paule Macedo",
+  "Pronouns": ["He/Him", "They/Them"],
+  "Studying": "Computer Science at CEFET/RJ",
+  "Learning": ["Linux", "Networking", "Cybersecurity"],
+  "Goals": "Currently looking for internship opportunities in Cybersecurity"
+}
+```
+
+<!-- 
 <div>
    <img src="https://github.com/user-attachments/assets/b467f402-07d2-4449-abd5-4ffc4b64bf12" width="70%">
    <img src="https://github.com/user-attachments/assets/93c0ec7c-9b21-4e1b-b9b0-5766e4b75c58"  width="27%" >
 </div>
-
+-->
 
 <!-- Skills & Tools -->
 ### [![Skills](https://github.com/user-attachments/assets/319f0b8f-b504-4dad-8f3c-f1bf5913fd99)](https://github.com/paulemacedo#-1)
