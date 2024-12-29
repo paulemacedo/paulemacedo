@@ -75,7 +75,7 @@ kde, onedrive
 [![Cyber](https://go-skill-icons.vercel.app/api/icons?i=linux,bash,python,kali,wireshark&titles=true)](./Skills.md)<br>
 [![Back](https://go-skill-icons.vercel.app/api/icons?i=rust,c,cpp,java,lua&titles=true)](./Skills.md)
 [![Front](https://skillicons.dev/icons?i=html,css,js&perline=40&titles=true)](./Skills.md)<br>
-[![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,webstorm,pycharm,goland,rustrover,github,figma,vmwareworkstation&titles=true)](./Skills.md)
+[![Tools](https://go-skill-icons.vercel.app/api/icons?i=webstorm,pycharm,goland,rustrover,vscode,github,figma,vmwareworkstation&titles=true)](./Skills.md)
 
 <!-- Estatos -->
 ### [![Stats](https://github.com/user-attachments/assets/9141a83c-db95-4193-834a-cca9b63d66d4)](https://github.com/paulemacedo#-2)
