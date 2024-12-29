@@ -39,8 +39,13 @@
 
 <!-- Skills & Tools -->
 ### [![Skills](https://github.com/user-attachments/assets/319f0b8f-b504-4dad-8f3c-f1bf5913fd99)](https://github.com/paulemacedo#-1)
-[![My Skills](https://skillicons.dev/icons?i=py,linux,bash,rust,html,css,js,git,c,cpp,java,lua&perline=40&titles=true)](./Skills.md)<br>
-[![My Tools](https://go-skill-icons.vercel.app/api/icons?i=arch,hyprland,kali,vscode,webstorm,pycharm,goland,rustrover,github,figma,vmwareworkstation&titles=true)](./Skills.md)
+<!-- 
+[![Env](https://go-skill-icons.vercel.app/api/icons?i=arch,hyprland&titles=true)](./Skills.md)
+-->
+[![Cyber](https://go-skill-icons.vercel.app/api/icons?i=python,linux,bash,kali,wireshark&titles=true)](./Skills.md)<br>
+[![Back](https://go-skill-icons.vercel.app/api/icons?i=rust,c,cpp,java,lua&titles=true)](./Skills.md)
+[![Front](https://skillicons.dev/icons?i=html,css,js&perline=40&titles=true)](./Skills.md)<br>
+[![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,webstorm,pycharm,goland,rustrover,github,figma,vmwareworkstation&titles=true)](./Skills.md)
 
 
 ### [![Stats](https://github.com/user-attachments/assets/9141a83c-db95-4193-834a-cca9b63d66d4)](https://github.com/paulemacedo#-2)
