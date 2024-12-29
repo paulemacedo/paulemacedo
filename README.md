@@ -79,8 +79,12 @@ kde, onedrive
 
 <!-- Estatos -->
 ### [![Stats](https://github.com/user-attachments/assets/9141a83c-db95-4193-834a-cca9b63d66d4)](https://github.com/paulemacedo#-2)
-
-<div>
-    <img alt="Paule Macedo's GitHub Streak" width="53%" src="https://github-readme-streak-stats.herokuapp.com/?user=paulemacedo&theme=nightowl">
-    <img alt="Paule Macedo's Top Langs" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulemacedo&theme=nightowl&show_icons=true&locale=en&layout=compact">
+<div align="center">
+    <div>
+        <img alt="Paule Macedo's GitHub Streak" width="53%" src="https://github-readme-streak-stats.herokuapp.com/?user=paulemacedo&theme=nightowl">
+        <img alt="Paule Macedo's Top Langs" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulemacedo&theme=nightowl&show_icons=true&locale=en&layout=compact">
+    </div>
+    <div align="center">
+        <img alt="Paule Macedo's Trophy" src="https://github-profile-trophy.vercel.app/?username=paulemacedo&theme=tokyonight&rank=-C&column=-1">
+    </div>
 </div>
