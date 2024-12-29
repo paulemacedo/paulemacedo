@@ -3,15 +3,17 @@
 
 
 <div align="center">
+   <!-- Nome -->
    <h2>
       <img src="https://github.com/user-attachments/assets/b1e3dd0d-b1db-4359-853e-75844209ae2a" alt="paulemacedo" />
    </h2>
    
-   
+   <!-- Texto Dinamico -->
    <p >
      <img src="https://readme-typing-svg.demolab.com?font=Jura&weight=600&size=25&pause=1000&color=4B4376&random=false&width=450&height=40&lines=I'm+a+Cybersecurity+Enthusiast;I+am+a+Software+Developer" alt="Paule Macedo">
    </p>
-   
+
+   <!-- Botões -->
    <h6>
       <a href="mailto:pauledev@proton.me">
          <img src="https://github.com/user-attachments/assets/cf5a47e9-3933-4fe6-91a0-bdadbf9a75e6" alt="Email" height="30"/>
@@ -28,7 +30,7 @@
    </h6>
 </div>
 
-
+<!-- About Me -->
 ### [![About Me](https://github.com/user-attachments/assets/63bf751d-dedc-4fa6-bfdc-94c098da4cb7)](https://github.com/paulemacedo#)
 <div>
    <img src="https://github.com/user-attachments/assets/b467f402-07d2-4449-abd5-4ffc4b64bf12" width="70%">
@@ -58,7 +60,7 @@ kde, onedrive
 [![Front](https://skillicons.dev/icons?i=html,css,js&perline=40&titles=true)](./Skills.md)<br>
 [![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,webstorm,pycharm,goland,rustrover,github,figma,vmwareworkstation&titles=true)](./Skills.md)
 
-
+<!-- Estatos -->
 ### [![Stats](https://github.com/user-attachments/assets/9141a83c-db95-4193-834a-cca9b63d66d4)](https://github.com/paulemacedo#-2)
 
 <div>
