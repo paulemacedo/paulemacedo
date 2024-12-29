@@ -1,4 +1,3 @@
-,
 <!-- Contador de acessos -->
 ![Profile views](https://komarev.com/ghpvc/?username=paulemacedo&label=Profile%20views&color=432E54&style=flat)
 
