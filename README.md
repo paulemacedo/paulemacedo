@@ -5,7 +5,7 @@
 <div align="center">
    <!-- Nome -->
    <h2>
-      <img src="https://github.com/user-attachments/assets/b1e3dd0d-b1db-4359-853e-75844209ae2a" alt="paulemacedo" />
+      <img src="./Assets/nome.png" alt="paulemacedo" />
    </h2>
    
    <!-- Texto Dinamico -->
@@ -16,16 +16,16 @@
    <!-- Botões -->
    <h6>
       <a href="mailto:pauledev@proton.me">
-         <img src="https://github.com/user-attachments/assets/cf5a47e9-3933-4fe6-91a0-bdadbf9a75e6" alt="Email" height="30"/>
+         <img src="./Assets/email.png" alt="Email" height="30"/>
       </a>
       <a href="https://www.linkedin.com/in/Paulemacedo/">
-         <img src="https://github.com/user-attachments/assets/52c2f612-58ee-4d99-a94c-5dab21b611eb" alt="LinkedIn" height="30"/>
+         <img src="./Assets/linkedin.png" alt="LinkedIn" height="30"/>
       </a>
       <a href="">
-         <img src="https://github.com/user-attachments/assets/3a84e998-db35-4689-94d6-c2f026cb6bc8" alt="Portifólio" height="30"/>
+         <img src="./Assets/portifolio.png" alt="Portifólio" height="30"/>
       </a>
       <a href="https://tryhackme.com/p/paulemacedo">
-         <img src="https://github.com/user-attachments/assets/607506e8-58ea-480b-8717-bd9f55ced59d" alt="Try hack Me" height="30"/>
+         <img src="./Assets/tryhackme.png" alt="Try hack Me" height="30"/>
       </a>  
    </h6>
 </div>
