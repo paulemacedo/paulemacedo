@@ -15,9 +15,11 @@
 - **Design**: Figma
 - **Controle de Versão**: Git, GitHub
 - **Virtualização**: VMware Workstation
+- **Edição de Vídeo**: DaVinci Resolve
 
 ## **Programação**
 - **Backend**: Python, Linux, C, C++, Java, Rust
 - **Frontend**: HTML, CSS, JavaScript
 - **Jogos**: Unity
 - **Banco de Dados**: PostgreSQL
+

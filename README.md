@@ -1,7 +1,6 @@
 <!-- Contador de acessos -->
 ![Profile views](https://komarev.com/ghpvc/?username=paulemacedo&label=Profile%20views&color=432E54&style=flat)
 
-
 <div align="center">
    <!-- Nome -->
    <h2>
@@ -30,9 +29,6 @@
    </h6>
 </div>
 
-
-
-
 <!-- About Me -->
 ### [![About Me](./Assets/Titles/aboutme.png)](https://github.com/paulemacedo#)
 
@@ -48,17 +44,9 @@
 }
 ```
 
-<!-- 
-<div>
-   <img src="https://github.com/user-attachments/assets/b467f402-07d2-4449-abd5-4ffc4b64bf12" width="70%">
-   <img src="https://github.com/user-attachments/assets/93c0ec7c-9b21-4e1b-b9b0-5766e4b75c58"  width="27%" >
-</div>
--->
-
 <!-- Skills & Tools -->
 ### [![Skills](./Assets/Titles/Skills.png)](https://github.com/paulemacedo#-1)
 <!-- 
-[![Env](https://go-skill-icons.vercel.app/api/icons?i=arch,hyprland,kitty&titles=true)](./Skills.md)
 [![Art](https://go-skill-icons.vercel.app/api/icons?i=davinci,gimp&titles=true)](./Skills.md)
 
 Exemples:
@@ -71,11 +59,11 @@ mastodon, proton, steam, teams, telegram, twitch, typescript
 kde, onedrive
 
 -->
-[![Env](https://go-skill-icons.vercel.app/api/icons?i=arch,hyprland,kitty&titles=true)](./Skills.md)
-[![Cyber](https://go-skill-icons.vercel.app/api/icons?i=linux,bash,python,kali,wireshark&titles=true)](./Skills.md)<br>
-[![Back](https://go-skill-icons.vercel.app/api/icons?i=rust,c,cpp,java,lua&titles=true)](./Skills.md)
-[![Front](https://skillicons.dev/icons?i=html,css,js&perline=40&titles=true)](./Skills.md)<br>
-[![Tools](https://go-skill-icons.vercel.app/api/icons?i=webstorm,pycharm,goland,rustrover,vscode,github,figma,vmwareworkstation&titles=true)](./Skills.md)
+
+[![Env](https://go-skill-icons.vercel.app/api/icons?i=arch,hyprland,kitty&titles=true)](./Pages/Skills.md) [![Cyber](https://go-skill-icons.vercel.app/api/icons?i=linux,bash,python,kali,wireshark&titles=true)](./Pages/Skills.md)<br>
+[![Back](https://go-skill-icons.vercel.app/api/icons?i=rust,c,cpp,java,lua&titles=true)](./Pages/Skills.md)
+[![Front](https://skillicons.dev/icons?i=html,css,js&perline=40&titles=true)](./Pages/Skills.md)<br>
+[![Tools](https://go-skill-icons.vercel.app/api/icons?i=webstorm,pycharm,goland,rustrover,vscode,github,figma,vmwareworkstation&titles=true)](./Pages/Skills.md)
 
 <!-- Estatos -->
 ### [![Stats](./Assets/Titles/Stats.png)](https://github.com/paulemacedo#-2)
