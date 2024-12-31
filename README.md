@@ -60,10 +60,12 @@ kde, onedrive
 
 -->
 
-[![Env](https://go-skill-icons.vercel.app/api/icons?i=arch,hyprland,kitty&titles=true)](./Pages/Skills.md) [![Cyber](https://go-skill-icons.vercel.app/api/icons?i=linux,bash,python,kali,wireshark&titles=true)](./Pages/Skills.md)<br>
+[![Env](https://go-skill-icons.vercel.app/api/icons?i=arch,hyprland,kitty&titles=true)](./Pages/Skills.md) 
+[![Cyber](https://go-skill-icons.vercel.app/api/icons?i=linux,bash,python,kali,wireshark&titles=true)](./Pages/Skills.md)
+[![Tools](https://go-skill-icons.vercel.app/api/icons?i=vmwareworkstation,github,figma&titles=true)](./Pages/Skills.md)<br>
 [![Back](https://go-skill-icons.vercel.app/api/icons?i=rust,c,cpp,java,lua&titles=true)](./Pages/Skills.md)
-[![Front](https://skillicons.dev/icons?i=html,css,js&perline=40&titles=true)](./Pages/Skills.md)<br>
-[![Tools](https://go-skill-icons.vercel.app/api/icons?i=webstorm,pycharm,goland,rustrover,vscode,github,figma,vmwareworkstation&titles=true)](./Pages/Skills.md)
+[![Front](https://skillicons.dev/icons?i=html,css,js&perline=40&titles=true)](./Pages/Skills.md)
+[![IDE](https://go-skill-icons.vercel.app/api/icons?i=webstorm,pycharm,goland,rustrover,vscode&titles=true)](./Pages/Skills.md)
 
 <!-- Estatos -->
 ### [![Stats](./Assets/Titles/Stats.png)](https://github.com/paulemacedo#-2)
