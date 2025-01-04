@@ -14,7 +14,7 @@
 
    <!-- Botões -->
    <h6>
-      <a href="mailto:pauledev@proton.me">
+      <a href="mailto:paulo.macedo@aluno.cefet-rj.br">
          <img src="./Assets/Buttons/email.png" alt="Email" height="30"/>
       </a>
       <a href="https://www.linkedin.com/in/Paulemacedo/">
@@ -30,7 +30,7 @@
 </div>
 
 <!-- About Me -->
-### [![About Me](./Assets/Titles/aboutme.png)](https://github.com/paulemacedo#)
+### [![About Me](./Assets/Titles/aboutme.png)](https://github.com/paulemacedo#) <img align="center" alt="lineyellow" src="./Assets/line.gif" width="900" height="2"/>
 
 <img align="right" alt="Umbreon" src="./Assets/umbreon.gif" width="200px"/>
 
@@ -45,7 +45,7 @@
 ```
 
 <!-- Skills & Tools -->
-### [![Skills](./Assets/Titles/Skills.png)](https://github.com/paulemacedo#-1)
+### [![Skills](./Assets/Titles/Skills.png)](https://github.com/paulemacedo#-1) <img align="center" alt="lineyellow" src="./Assets/line.gif" width="900" height="2"/>
 <!-- 
 [![Art](https://go-skill-icons.vercel.app/api/icons?i=davinci,gimp&titles=true)](./Skills.md)
 
@@ -69,7 +69,7 @@ kde, onedrive
 [![IDE](https://go-skill-icons.vercel.app/api/icons?i=webstorm,pycharm,goland,rustrover,vscode&titles=true)](./Pages/Skills.md)
 
 <!-- Estatos -->
-### [![Stats](./Assets/Titles/Stats.png)](https://github.com/paulemacedo#-2)
+### [![Stats](./Assets/Titles/Stats.png)](https://github.com/paulemacedo#-2) <img align="center" alt="lineyellow" src="./Assets/line.gif" width="900" height="2"/>
 <div align="center">
     <div>
         <img alt="Paule Macedo's GitHub Streak" width="53%" src="https://github-readme-streak-stats.herokuapp.com/?user=paulemacedo&theme=nightowl">
