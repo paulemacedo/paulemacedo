@@ -57,7 +57,6 @@ markdown, tailwindcss, redux, rider, react, reactbootstrap, reactnative, unity, 
 notion, obsidian, 
 mastodon, proton, steam, teams, telegram, twitch, typescript
 kde, onedrive
-
 -->
 
 [![Env](https://go-skill-icons.vercel.app/api/icons?i=arch,hyprland,kitty&titles=true)](./Pages/Skills.md) 
