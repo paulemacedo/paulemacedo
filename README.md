@@ -29,7 +29,7 @@
 
 <!-- About Me -->
 
-### [![About Me](./Assets/Titles/aboutme.png)](https://github.com/paulemacedo#) <img align="center" alt="line" src="./Assets/line.gif" width="900" height="2"/>
+### [![About Me](./Assets/Titles/aboutme.png)](https://github.com/paulemacedo#) <img align="center" alt="line" src="./Assets/line.gif" width="900" height="1"/>
 
 <img align="right" alt="Umbreon" src="./Assets/umbreon.gif" width="200px"/>
 
@@ -44,14 +44,17 @@
 ```
 
 <!-- Skills & Tools -->
-### [![Skills](./Assets/Titles/Skills.png)](https://github.com/paulemacedo#-1) <img align="center" alt="line" src="./Assets/line.gif" width="900" height="2"/>
+### [![Skills](./Assets/Titles/Skills.png)](https://github.com/paulemacedo#-1) <img align="center" alt="line" src="./Assets/line.gif" width="900" height="1"/>
 
-
-[![Skills](https://go-skill-icons.vercel.app/api/icons?i=arch,hyprland,kitty,linux,bash,python,kali,wireshark,vmwareworkstation,github,figma,gimp,davinci,rust,c,cpp,java,lua,html,css,js,webstorm,pycharm,goland,rustrover,vscode&titles=true&perline=13)](./Pages/Skills.md) 
+<div align="center">
+   <a href="./Pages/Skills.md">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=arch,hyprland,kitty,linux,bash,python,kali,wireshark,vmwareworkstation,github,figma,gimp,davinci,rust,c,cpp,java,lua,html,css,js,webstorm,pycharm,goland,rustrover,vscode&titles=true&perline=13" alt="Skills">
+   </a>
+</div>
 
 
 <!-- Estatos -->
-### [![Stats](./Assets/Titles/Stats.png)](https://github.com/paulemacedo#-2) <img align="center" alt="line" src="./Assets/line.gif" width="900" height="2"/>
+### [![Stats](./Assets/Titles/Stats.png)](https://github.com/paulemacedo#-2) <img align="center" alt="line" src="./Assets/line.gif" width="900" height="1"/>
 <div align="center">
     <div>
         <img alt="Paule Macedo's GitHub Streak" width="53%" src="https://github-readme-streak-stats.herokuapp.com/?user=paulemacedo&theme=nightowl">
