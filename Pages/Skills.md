@@ -33,3 +33,16 @@
 - **Backend**: Python, Linux, C, C++, Java, Rust
 - **Frontend**: HTML, CSS, JavaScript
 - **Banco de Dados**: PostgreSQL
+
+
+<!-- 
+
+[![Env](https://go-skill-icons.vercel.app/api/icons?i=arch,hyprland,kitty&titles=true)](./Pages/Skills.md) 
+[![Cyber](https://go-skill-icons.vercel.app/api/icons?i=linux,bash,python,kali,wireshark&titles=true)](./Pages/Skills.md)
+[![Tools](https://go-skill-icons.vercel.app/api/icons?i=vmwareworkstation,github&titles=true)](./Pages/Skills.md)
+[![Art](https://go-skill-icons.vercel.app/api/icons?i=figma,gimp,davinci&titles=true)](./Pages/Skills.md)<br>
+[![Back](https://go-skill-icons.vercel.app/api/icons?i=rust,c,cpp,java,lua&titles=true)](./Pages/Skills.md)
+[![Front](https://skillicons.dev/icons?i=html,css,js&perline=40&titles=true)](./Pages/Skills.md)
+[![IDE](https://go-skill-icons.vercel.app/api/icons?i=webstorm,pycharm,goland,rustrover,vscode&titles=true)](./Pages/Skills.md)
+
+ -->

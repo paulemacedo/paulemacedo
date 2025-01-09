@@ -1,0 +1,92 @@
+thunderbird 	
+alchemy 		defold 		hadoop 		milvus 		qdrant 		thunkable 	
+alpinejs 		deno 		hardhat 		mindsdb 		qodana 		tidb 	
+anaconda 		desmos 		haskell 		mint 		qt 		tmux 	
+ 		devto 		haxe 		miro 		r 		tomcat 	
+ 		digitalocean 		haxeflixel 		misskey 		rabbitmq 		tor 	
+ 		dimension 		helix 		mistral 		rails 		trpc 	
+animate 		directus 		helm 		mjml 		raspberrypi 		truffle 	
+ansible 		discord 		herd 		ml5 		 		twig 	
+anss 		discordbots 		heroku 		mocha 		reactbootstrap 		twitch 	
+api 		discordjs 		hibernate 		mojo 		reactivex 		typeorm 	
+apidog 		 		holyc 		mongodb 		reactnative 		 	
+apollo 		 		hono 		mongoose 		reactquery 		 	
+ 		docksal 		horizon 		mysql 		recoil 		 	
+ 		docsify 		html 		 		redhat 		unitycatalog 	
+appwrite 		dotnet 		htmx 		nestjs 		redis 		unocss 	
+aqua 		dreamweaver 		htop 		netlify 		redshift 		 	
+arcbrowser 		drupal 		huggingface 		nextjs 		redux 		v 	
+ 		duckduckgo 		hugo 		nginx 				vagrant 	
+arduino 		dusk 		hydrogen 		ngrok 		 		vala 	
+argocd 		dynamodb 		hyprland 		nim 		render 		vapor 	
+assembly 		echo 		i3 		 		renpy 		vercel 	
+ 		 		iced 		nodejs 		replit 		vim 	
+atom 		edge 		 		 		resharper 		virtualbox 	
+audition 		elasticsearch 		ignite 		notion 		reverb 		visualbasic 	
+authjs 		 		 		nova 		revolt 		visualstudio 	
+autocad 		elementplus 		incopy 		npm 		 		 	
+avaloniaui 		elixir 		indesign 		numpy 		robloxstudio 		vitest 	
+		elm 		inertia 		 		rocket 		vmwareworkstation 	
+azul 		elysia 		infura 		obsidian 		rollupjs 		 	
+ 		 		inkscape 		ocaml 		ros 		 	
+azuredevops 		ember 		insomnia 		octane 		rubocop 		 	
+babel 		emotion 		instagram 		octave 		 		vuetify 	
+barbajs 		envoyer 		integrations 		odin 		 		vyper 	
+bash 		erlang 		ipfs 		ollama 		 		wails 	
+beeceptor 		etcd 		jamovi 		onedrive 		rustrover 		wandb 	
+behance 		excel 		 		onenote 		s3 		webassembly 	
+behat 		expo 		 		opencv 		safari 		webflow 	
+bevy 		expressjs 		jax 		openmm 		sail 		webpack 	
+bigquery 		fabric 		jekyll 		openshift 		sanctum 		 	
+bitbucket 		facebook 		 		opensource 		sas 		wezterm 	
+blazor 		fastai 		jest 		openstack 		sass 		windicss 	
+blender 		fastapi 		jetpackcompose 		openzeppelin 		scala 		 	
+fastlane 		jetstream 		opera 		scikitlearn 		wireshark 	
+bokeh 		fediverse 		jira 		oracle 		scipy 		word 	
+ 		ffmpeg 		joomla 		orchid 		scout 		wordpress 	
+brave 		fiber 		 		outlook 		scratch 		workers 	
+breeze 		figma 		julia 		p5js 		seaborn 		wsl 	
+bridge 		filament 		jupyter 		pail 		selenium 		x 	
+bsd 		firebase 		kafka 		pandas 		sentry 		 	
+btlo 		firefox 		kaggle 		papertrail 		sequelize 		xd 	
+bulma 		flameshot 		kakoune 		payload 		sharepoint 		yaml 	
+bun 		 		 		pbi 		shopify 		yammer 	
+ 		fleet 		karma 		pennant 		signal 		yarn 	
+cachyos 		flutter 		kde 		perl 		skeletonui 		yew 	
+caddy 		flutterflow 		keycloak 		 		sketchup 		yii 	
+cairo 		flyio 		keydb 		photoshopclassic 		slack 		youtube 	
+ 		fonts 		kibana 		photoshopexpress 		snowflake 		zabbix 	
+capacitor 		forge 		 		php 		snyk 		zed 	
+capture 		forgejo 		 		phpstan 		socialite 		zellij 	
+cashier 		forth 		ktor 		 		solana 		zen 	
+cassandra 		fortran 		 		picocss 		solidity 		zig 	
+characteranimator 		frankenphp 		langchain 		pinecone 		 		zudoku 	
+chartjs 		 		laravel 		pinescript 		sonarqube 		zustand 	
+chatgpt 		fresh 		laravelspark 		pinia 		spark 			
+chrome 		fuse 		latex 		pint 		 			
+chromium 		gamemakerstudio 		leaflet 		pkl 		sqlalchemy 			
+circleci 		ganache 		leetcode 		plan9 		sqlite 			
+claude 		gatsby 		less 		planetscale 		sqlserver 			
+clerk 		gcp 		libsql 		platformio 		stackoverflow 			
+ 		gdevelop 		lighthouse 		playwright 		steam 			
+clojure 		gemini 		lightning 		plsql 		stock 			
+cloudflare 		gentoo 		 		pm2 		storyblok 			
+cmake 		gherkin 		lightroomclassic 		pnpm 		storybook 			
+cockroachdb 		gimp 		linkedin 		pocketbase 		strapi 			
+codeberg 		git 		 		podman 		streamlit 			
+codeigniter 		gitea 		 		 		stripe 			
+codepen 		 		litmus 		portfolio 		styledcomponents 			
+coffeescript 		githubactions 		livewire 		postgresql 		stylus 			
+commercetools 		githubcopilot 		llamaindex 		postman 		sublime 			
+composer 		githubpages 		logto 		powerpoint 		supabase 			
+contentful 		gitkraken 		looker 		 		surrealdb 			
+ 		 		 			
+creativecloud 		gleam 		luau 		prelude 		svg 			
+crystal 		gmail 		 		 		svn 			
+cs 		gnome 		 		premiererush 		swagger 			
+css 		 		lxc 		primevue 		swift 			
+cuda 		 		 		prisma 		 			
+cypress 		 		mariadb 		processing 		tableau 			
+d 		googleanalytics 		markdown 		prometheus 		 			
+d3 		googleappsscript 		 		prompts 		tallyprime 			
+dailydev 		gradle 		materialui 		proton 		tauri
