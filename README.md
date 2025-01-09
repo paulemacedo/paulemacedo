@@ -30,6 +30,7 @@
 </div>
 
 <!-- About Me -->
+
 ### [![About Me](./Assets/Titles/aboutme.png)](https://github.com/paulemacedo#) <img align="center" alt="line" src="./Assets/line.gif" width="900" height="2"/>
 
 <img align="right" alt="Umbreon" src="./Assets/umbreon.gif" width="200px"/>
@@ -40,32 +41,16 @@
   "Pronouns": ["He/Him", "They/Them"],
   "Studying": "Computer Science at CEFET/RJ",
   "Learning": ["Linux", "Networking", "Cybersecurity"],
-  "Goals": "Currently looking for internship opportunities in Cybersecurity"
+  "Goals": "Cybersecurity internship"
 }
 ```
 
 <!-- Skills & Tools -->
 ### [![Skills](./Assets/Titles/Skills.png)](https://github.com/paulemacedo#-1) <img align="center" alt="line" src="./Assets/line.gif" width="900" height="2"/>
-<!-- 
-[![Art](https://go-skill-icons.vercel.app/api/icons?i=davinci,gimp&titles=true)](./Skills.md)
 
-Exemples:
-dbeaver,docker,electron,kubernetes,insomnia, idea, postgresql, postman, supabase, sublime, tor
-git,github,githubcopilot,githubpages,gitlab, 
-lightroom,lightroomclassic, davinci, gimp, photoshop, photoshopclassic, photoshopexpress, premiere, premiererush, 
-markdown, tailwindcss, redux, rider, react, reactbootstrap, reactnative, unity, vercel, vite, windows, wsl, godot
-notion, obsidian, 
-mastodon, proton, steam, teams, telegram, twitch, typescript
-kde, onedrive
--->
 
-[![Env](https://go-skill-icons.vercel.app/api/icons?i=arch,hyprland,kitty&titles=true)](./Pages/Skills.md) 
-[![Cyber](https://go-skill-icons.vercel.app/api/icons?i=linux,bash,python,kali,wireshark&titles=true)](./Pages/Skills.md)
-[![Tools](https://go-skill-icons.vercel.app/api/icons?i=vmwareworkstation,github&titles=true)](./Pages/Skills.md)
-[![Art](https://go-skill-icons.vercel.app/api/icons?i=figma,gimp,davinci&titles=true)](./Pages/Skills.md)<br>
-[![Back](https://go-skill-icons.vercel.app/api/icons?i=rust,c,cpp,java,lua&titles=true)](./Pages/Skills.md)
-[![Front](https://skillicons.dev/icons?i=html,css,js&perline=40&titles=true)](./Pages/Skills.md)
-[![IDE](https://go-skill-icons.vercel.app/api/icons?i=webstorm,pycharm,goland,rustrover,vscode&titles=true)](./Pages/Skills.md)
+[![Skills](https://go-skill-icons.vercel.app/api/icons?i=arch,hyprland,kitty,linux,bash,python,kali,wireshark,vmwareworkstation,github,figma,gimp,davinci,rust,c,cpp,java,lua,html,css,js,webstorm,pycharm,goland,rustrover,vscode&titles=true&perline=13)](./Pages/Skills.md) 
+
 
 <!-- Estatos -->
 ### [![Stats](./Assets/Titles/Stats.png)](https://github.com/paulemacedo#-2) <img align="center" alt="line" src="./Assets/line.gif" width="900" height="2"/>
@@ -78,3 +63,5 @@ kde, onedrive
         <img alt="Paule Macedo's Trophy" src="https://github-profile-trophy.vercel.app/?username=paulemacedo&theme=tokyonight&rank=-C&column=-1">
     </div>
 </div>
+
+
