@@ -8,10 +8,8 @@
    </h2>
    
    <!-- Texto Dinamico -->
-   <p >
-     <img src="https://readme-typing-svg.demolab.com?font=Jura&weight=600&size=25&pause=1000&color=4B4376&random=false&width=450&height=40&lines=I'm+a+Cybersecurity+Enthusiast;I+am+a+Software+Developer" alt="Paule Macedo">
-   </p>
-
+   <img src="https://readme-typing-svg.demolab.com?font=Jura&weight=600&size=25&pause=1000&color=4B4376&random=false&width=450&height=40&lines=I'm+a+Cybersecurity+Enthusiast;I+am+a+Software+Developer" alt="Paule Macedo">
+   
    <!-- Botões -->
    <h6>
       <a href="mailto:paulo.macedo@aluno.cefet-rj.br">
