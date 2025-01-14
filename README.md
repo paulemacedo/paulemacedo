@@ -57,8 +57,8 @@
 ### [![Stats](./Assets/Titles/Stats.png)](https://github.com/paulemacedo#-2) <img align="center" alt="line" src="./Assets/line.gif" width="900" height="1"/>
 <div align="center">
     <div>
-        <img alt="Paule Macedo's GitHub Streak" width="53%" src="https://github-readme-streak-stats.herokuapp.com/?user=paulemacedo&theme=nightowl">
-        <img alt="Paule Macedo's Top Langs" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulemacedo&theme=nightowl&show_icons=true&locale=en&layout=compact">
+        <img alt="Paule Macedo's GitHub Streak" width="53%" src="https://paule-streaks.vercel.app/?user=paulemacedo&theme=tokyonight">
+        <img alt="Paule Macedo's Top Langs" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulemacedo&theme=tokyonight&show_icons=true&locale=en&layout=compact">
     </div>
     <div align="center">
         <img alt="Paule Macedo's Trophy" src="https://github-profile-trophy.vercel.app/?username=paulemacedo&theme=tokyonight&rank=-C&column=-1">
