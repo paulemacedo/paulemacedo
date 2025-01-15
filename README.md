@@ -31,18 +31,19 @@
 
 ### [![About Me](./Assets/Titles/aboutme.png)](https://github.com/paulemacedo#) <img align="center" alt="line" src="./Assets/line.gif" width="900" height="1"/>
 
-<img align="right" alt="Umbreon" src="./Assets/umbreon.gif" width="200px"/>
+<img align="right" alt="Umbreon" src="./Assets/umbreon.gif" width="250px"/>
 
 ```json
 {
-  "Name": "Paule Macedo",
-  "Pronouns": ["He/Him", "They/Them"],
-  "Studying": "Computer Science at CEFET/RJ",
-  "Learning": ["Linux", "Networking", "Cybersecurity"],
-  "Goals": "Cybersecurity internship"
+  "name": "Paule Macedo",
+  "pronouns": ["He/Him", "They/Them"],
+  "studying": "Computer Science at CEFET/RJ",
+  "learning": ["Linux", "Networking", "Cybersecurity"],
+  "goals": "Cybersecurity internship"
 }
 ```
 
+<!-- Skills -->
 ### [![Skills](./Assets/Titles/Skills.png)](https://github.com/paulemacedo#-1) <img align="center" alt="line" src="./Assets/line.gif" width="900" height="1"/>
 
 <!-- <div align="center">
@@ -90,16 +91,19 @@
 ![GIMP](https://img.shields.io/badge/-GIMP-432E54?style=flat-square&logo=gimp&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/-DaVinci%20Resolve-432E54?style=flat-square&logo=davinci-resolve&logoColor=white)
 
-<!-- Estatos -->
+<!-- status -->
 ### [![Stats](./Assets/Titles/Stats.png)](https://github.com/paulemacedo#-2) <img align="center" alt="line" src="./Assets/line.gif" width="900" height="1"/>
 <div align="center">
     <div>
         <img alt="Paule Macedo's GitHub Streak" width="53%" src="https://paule-streaks.vercel.app/?user=paulemacedo&theme=tokyonight">
         <img alt="Paule Macedo's Top Langs" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulemacedo&theme=tokyonight&show_icons=true&locale=en&layout=compact&exclude_repo=BytedeSabor">
     </div>
-    <div align="center">
-        <img alt="Paule Macedo's Trophy" src="https://github-profile-trophy.vercel.app/?username=paulemacedo&theme=tokyonight&rank=-C&column=-1">
-    </div>
+
 </div>
 
 
+<!-- Trophies -->
+### [![Trophies](./Assets/Titles/Trophies.png)](https://github.com/paulemacedo#-3) <img align="center" alt="line" src="./Assets/line.gif" width="900" height="1"/>
+<div align="center">
+   <img alt="Paule Macedo's Trophy" src="https://github-profile-trophy.vercel.app/?username=paulemacedo&theme=tokyonight&rank=-C&column=-1">
+</div>
