@@ -59,10 +59,10 @@
 ![Kitty](https://img.shields.io/badge/Kitty-432E54?style=flat-square&logo=gnometerminal&logoColor=white)
 <br>
 ![INFRA & CYBERSECURITY](https://img.shields.io/badge/INFRA%20%26%20CYBERSECURITY-181624?style=flat-square&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-432E54?style=flat-square&logo=linux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-432E54?style=flat-square&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-432E54?style=flat-square&logo=burpsuite&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-432E54?style=flat-square&logo=kali-linux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-432E54?style=flat-square&logo=linux&logoColor=white)
 <br>
 ![Frontend](https://img.shields.io/badge/FRONTEND-181624?style=flat-square&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-432E54?style=flat-square&logo=html5&logoColor=white) 
@@ -74,17 +74,17 @@
 ![Backend](https://img.shields.io/badge/BACKEND-181624?style=flat-square&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-432E54?style=flat-square&logo=Python&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-432E54?style=flat-square&logo=rust&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-432E54?style=flat-square&logo=gnu-bash&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-432E54?style=flat-square&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-432E54?style=flat-square&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-432E54?style=flat-square&logo=gnu-bash&logoColor=white)
 <BR>
 ![Tools](https://img.shields.io/badge/TOOLS-181624?style=flat-square&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-432E54?style=flat-square&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-432E54?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-432E54?style=flat-square&logo=webstorm&logoColor=white)
 ![RustHover](https://img.shields.io/badge/-RustHover-432E54?style=flat-square&logo=rust&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-432E54?style=flat-square&logo=pycharm&logoColor=white)
 ![VMware](https://img.shields.io/badge/-VMware-432E54?style=flat-square&logo=vmware&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-432E54?style=flat-square&logo=github&logoColor=white)
 <br>
 ![Design & Creativity](https://img.shields.io/badge/DESIGN%20%26%20CREATIVITY-181624?style=flat-square&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-432E54?style=flat-square&logo=figma&logoColor=white)
