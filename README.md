@@ -52,12 +52,12 @@
 </div> -->
 
 
-![ENVIROMENT](https://img.shields.io/badge/ENVIROMENT-181624?style=flat-square&logoColor=white)
+![ENVIROMENT](https://img.shields.io/badge/MY%20ENVIROMENT-181624?style=flat-square&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-432E54?style=flat-square&logo=arch-linux&logoColor=white)
 ![Hyprland](https://img.shields.io/badge/Hyprland-432E54?style=flat-square&logo=hyprland&logoColor=white)
 ![Kitty](https://img.shields.io/badge/Kitty-432E54?style=flat-square&logo=gnometerminal&logoColor=white)
 <br>
-![CYBERSECURITY](https://img.shields.io/badge/CYBERSECURITY-181624?style=flat-square&logoColor=white)
+![INFRA & CYBERSECURITY](https://img.shields.io/badge/INFRA%20%26%20CYBERSECURITY-181624?style=flat-square&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-432E54?style=flat-square&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-432E54?style=flat-square&logo=burpsuite&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-432E54?style=flat-square&logo=kali-linux&logoColor=white)
@@ -95,7 +95,7 @@
 <div align="center">
     <div>
         <img alt="Paule Macedo's GitHub Streak" width="53%" src="https://paule-streaks.vercel.app/?user=paulemacedo&theme=tokyonight">
-        <img alt="Paule Macedo's Top Langs" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulemacedo&theme=tokyonight&show_icons=true&locale=en&layout=compact">
+        <img alt="Paule Macedo's Top Langs" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulemacedo&theme=tokyonight&show_icons=true&locale=en&layout=compact&exclude_repo=BytedeSabor">
     </div>
     <div align="center">
         <img alt="Paule Macedo's Trophy" src="https://github-profile-trophy.vercel.app/?username=paulemacedo&theme=tokyonight&rank=-C&column=-1">
