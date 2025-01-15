@@ -43,7 +43,6 @@
 }
 ```
 
-Skills & Tools
 ### [![Skills](./Assets/Titles/Skills.png)](https://github.com/paulemacedo#-1) <img align="center" alt="line" src="./Assets/line.gif" width="900" height="1"/>
 
 <!-- <div align="center">
