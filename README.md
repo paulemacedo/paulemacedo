@@ -43,15 +43,53 @@
 }
 ```
 
-<!-- Skills & Tools -->
+Skills & Tools
 ### [![Skills](./Assets/Titles/Skills.png)](https://github.com/paulemacedo#-1) <img align="center" alt="line" src="./Assets/line.gif" width="900" height="1"/>
 
-<div align="center">
+<!-- <div align="center">
    <a href="./Pages/Skills.md">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=arch,hyprland,kitty,linux,bash,python,kali,wireshark,vmwareworkstation,github,figma,gimp,davinci,rust,c,cpp,java,lua,html,css,js,webstorm,pycharm,goland,rustrover,vscode&titles=true&perline=13" alt="Skills">
    </a>
-</div>
+</div> -->
 
+
+![ENVIROMENT](https://img.shields.io/badge/ENVIROMENT-181624?style=flat-square&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-432E54?style=flat-square&logo=arch-linux&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-432E54?style=flat-square&logo=hyprland&logoColor=white)
+![Kitty](https://img.shields.io/badge/Kitty-432E54?style=flat-square&logo=gnometerminal&logoColor=white)
+<br>
+![CYBERSECURITY](https://img.shields.io/badge/CYBERSECURITY-181624?style=flat-square&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-432E54?style=flat-square&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-432E54?style=flat-square&logo=burpsuite&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-432E54?style=flat-square&logo=kali-linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-432E54?style=flat-square&logo=linux&logoColor=white)
+<br>
+![Frontend](https://img.shields.io/badge/FRONTEND-181624?style=flat-square&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-432E54?style=flat-square&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/-CSS3-432E54?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-432E54?style=flat-square&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/-React-432E54?style=flat-square&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-432E54?style=flat-square&logo=redux&logoColor=white)
+<br>
+![Backend](https://img.shields.io/badge/BACKEND-181624?style=flat-square&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-432E54?style=flat-square&logo=Python&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-432E54?style=flat-square&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-432E54?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-432E54?style=flat-square&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-432E54?style=flat-square&logo=gnu-bash&logoColor=white)
+<BR>
+![Tools](https://img.shields.io/badge/TOOLS-181624?style=flat-square&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-432E54?style=flat-square&logo=visual-studio-code&logoColor=white)
+![WebStorm](https://img.shields.io/badge/-WebStorm-432E54?style=flat-square&logo=webstorm&logoColor=white)
+![RustHover](https://img.shields.io/badge/-RustHover-432E54?style=flat-square&logo=rust&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-432E54?style=flat-square&logo=pycharm&logoColor=white)
+![VMware](https://img.shields.io/badge/-VMware-432E54?style=flat-square&logo=vmware&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-432E54?style=flat-square&logo=github&logoColor=white)
+<br>
+![Design & Creativity](https://img.shields.io/badge/DESIGN%20%26%20CREATIVITY-181624?style=flat-square&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-432E54?style=flat-square&logo=figma&logoColor=white)
+![GIMP](https://img.shields.io/badge/-GIMP-432E54?style=flat-square&logo=gimp&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/-DaVinci%20Resolve-432E54?style=flat-square&logo=davinci-resolve&logoColor=white)
 
 <!-- Estatos -->
 ### [![Stats](./Assets/Titles/Stats.png)](https://github.com/paulemacedo#-2) <img align="center" alt="line" src="./Assets/line.gif" width="900" height="1"/>
