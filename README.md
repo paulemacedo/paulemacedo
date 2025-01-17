@@ -11,20 +11,12 @@
    <img src="https://readme-typing-svg.demolab.com?font=Jura&weight=600&size=25&pause=1000&color=4B4376&random=false&width=450&height=40&lines=I'm+a+Cybersecurity+Enthusiast;I+am+a+Software+Developer" alt="Paule Macedo">
    
    <!-- Botões -->
-   <h6>
-      <a href="mailto:paulo.macedo@aluno.cefet-rj.br">
-         <img src="./Assets/Buttons/email.png" alt="Email" height="30"/>
-      </a>
-      <a href="https://www.linkedin.com/in/Paulemacedo/">
-         <img src="./Assets/Buttons/linkedin.png" alt="LinkedIn" height="30"/>
-      </a>
-      <a href="">
-         <img src="./Assets/Buttons/portifolio.png" alt="Portifólio" height="30"/>
-      </a>
-      <a href="https://tryhackme.com/p/paulemacedo">
-         <img src="./Assets/Buttons/tryhackme.png" alt="Try hack Me" height="30"/>
-      </a>  
-   </h6>
+   
+   <a href="mailto:paulo.macedo@aluno.cefet-rj.br"><img src="./Assets/Buttons/email.png" alt="Email" height="30"/></a> 
+   <a href="https://www.linkedin.com/in/Paulemacedo/"><img src="./Assets/Buttons/linkedin.png" alt="LinkedIn" height="30"/></a> 
+   <a href=""><img src="./Assets/Buttons/portifolio.png" alt="Portifólio" height="30"/></a> 
+   <a href="https://tryhackme.com/p/paulemacedo"><img src="./Assets/Buttons/tryhackme.png" alt="Try hack Me" height="30"/></a>
+   
 </div>
 
 <!-- About Me -->
