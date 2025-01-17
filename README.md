@@ -23,7 +23,7 @@
 
 ### [![About Me](./Assets/Titles/aboutme.png)](https://github.com/paulemacedo#) <img align="center" alt="line" src="./Assets/line.gif" width="900" height="1"/>
 
-<img align="right" alt="Umbreon" src="./Assets/umbreon.gif" width="150px"/>
+<img align="right" alt="Umbreon" src="./Assets/umbreon.gif" width="200px"/>
 
 ```json
 {
