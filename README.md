@@ -3,9 +3,9 @@
 
 <div align="center">
    <!-- Nome -->
-   <h2>
-      <img src="./Assets/Titles/nome.png" alt="paulemacedo" />
-   </h2>
+
+   <h2><img src="./Assets/Titles/nome.png" alt="paulemacedo" />
+   <img alt="Umbreon" src="./Assets/umbreon.gif" width="90px"/></h2>
    
    <!-- Texto Dinamico -->
    <img src="https://readme-typing-svg.demolab.com?font=Jura&weight=600&size=25&pause=1000&color=4B4376&random=false&width=450&height=40&lines=I'm+a+Cybersecurity+Enthusiast;I+am+a+Software+Developer" alt="Paule Macedo">
@@ -23,7 +23,7 @@
 
 ### [![About Me](./Assets/Titles/aboutme.png)](https://github.com/paulemacedo#) <img align="center" alt="line" src="./Assets/line.gif" width="900" height="1"/>
 
-<img align="right" alt="Umbreon" src="./Assets/umbreon.gif" width="200px"/>
+<!-- <img align="right" alt="Umbreon" src="./Assets/umbreon.gif" width="200px"/> -->
 
 ```json
 {
