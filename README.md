@@ -62,6 +62,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-432E54?style=flat-square&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-432E54?style=flat-square&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-432E54?style=flat-square&logo=redux&logoColor=white)
+![tailwindcss](https://img.shields.io/badge/-TailwindCSS-432E54?style=flat-square&logo=tailwind-css&logoColor=white)
 <br>
 ![Backend](https://img.shields.io/badge/BACKEND-181624?style=flat-square&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-432E54?style=flat-square&logo=Python&logoColor=white)
