@@ -69,6 +69,7 @@
 ![Rust](https://img.shields.io/badge/-Rust-432E54?style=flat-square&logo=rust&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-432E54?style=flat-square&logo=gnu-bash&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-432E54?style=flat-square&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/-C-432E54?style=flat-square&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-432E54?style=flat-square&logo=openjdk&logoColor=white)
 <BR>
 ![Tools](https://img.shields.io/badge/TOOLS-181624?style=flat-square&logoColor=white)
@@ -77,12 +78,13 @@
 ![WebStorm](https://img.shields.io/badge/-WebStorm-432E54?style=flat-square&logo=webstorm&logoColor=white)
 ![RustHover](https://img.shields.io/badge/-RustHover-432E54?style=flat-square&logo=rust&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-432E54?style=flat-square&logo=pycharm&logoColor=white)
-![VMware](https://img.shields.io/badge/-VMware-432E54?style=flat-square&logo=vmware&logoColor=white)
+![vercel](https://img.shields.io/badge/-Vercel-432E54?style=flat-square&logo=vercel&logoColor=white)
 <br>
 ![Design & Creativity](https://img.shields.io/badge/DESIGN%20%26%20CREATIVITY-181624?style=flat-square&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-432E54?style=flat-square&logo=figma&logoColor=white)
 ![GIMP](https://img.shields.io/badge/-GIMP-432E54?style=flat-square&logo=gimp&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/-DaVinci%20Resolve-432E54?style=flat-square&logo=davinci-resolve&logoColor=white)
+
 
 <!-- status -->
 ### [![Stats](./Assets/Titles/Stats.png)](https://github.com/paulemacedo#-2) <img align="center" alt="line" src="./Assets/line.gif" width="900" height="1"/>
