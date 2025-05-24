@@ -100,5 +100,5 @@
 <!-- Trophies -->
 ### [![Trophies](./Assets/Titles/Trophies.png)](https://github.com/paulemacedo#-3) <img align="center" alt="line" src="./Assets/line.gif" width="900" height="1"/>
 <div align="center">
-   <img alt="Paule Macedo's Trophy" src="https://github-profile-trophy.vercel.app/?username=paulemacedo&theme=tokyonight&rank=-C,-B&column=-1">
+   <img alt="Paule Macedo's Trophy" src="https://github-profile-trophy.vercel.app/?username=paulemacedo&theme=tokyonight&rank=-C,-B,-?&column=-1">
 </div>
