@@ -93,7 +93,6 @@
         <img alt="Paule Macedo's GitHub Streak" width="53%" src="https://paule-streaks.vercel.app/?user=paulemacedo&theme=tokyonight">
         <img alt="Paule Macedo's Top Langs" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulemacedo&theme=tokyonight&show_icons=true&locale=en&layout=compact&exclude_repo=BytedeSabor">
     </div>
-
 </div>
 
 
@@ -102,3 +101,11 @@
 <div align="center">
    <img alt="Paule Macedo's Trophy" src="https://github-profile-trophy.vercel.app/?username=paulemacedo&theme=tokyonight&rank=-C,-B,-?&column=-1">
 </div>
+
+<img align="center" alt="line" src="./Assets/line.gif" width="900" height="1"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulemacedo/paulemacedo/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulemacedo/paulemacedo/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/paulemacedo/paulemacedo/output/pacman-contribution-graph.svg">
+</picture>
