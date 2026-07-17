@@ -8,7 +8,7 @@
    <img alt="Umbreon" src="./Assets/umbreon.gif" width="90px"/></h2>
    
    <!-- Texto Dinamico -->
-   <img src="https://readme-typing-svg.demolab.com?font=Jura&weight=600&size=25&pause=1000&color=4B4376&random=false&width=450&height=40&lines=🧑🏾‍🎓+CS+Student+@+IBMR;🐧+Linux+Enthusiast;🔴+Red+Team+%26+AppSec" alt="Paule Macedo">
+   <img src="https://readme-typing-svg.demolab.com/?font=Jura&weight=600&size=25&pause=1000&color=4B4376&random=false&width=450&height=40&lines=%F0%9F%A7%91%F0%9F%8F%BE%E2%80%8D%F0%9F%8E%93+CS+Student+@+IBMR;%F0%9F%90%A7+Linux+Enthusiast;%F0%9F%94%B4+Red+Team+%26+AppSec" alt="Paule Macedo">
    
    <!-- Botões -->
    
