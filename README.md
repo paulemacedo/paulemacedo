@@ -29,7 +29,7 @@
 {
   "name": "Paule Macedo",
   "pronouns": ["He/Him", "They/Them"],
-  "studying": "Computer Science at CEFET/RJ",
+  "studying": "Computer Science at IBMR",
   "learning": ["Linux", "Networking", "Cybersecurity"],
   "goals": "Cybersecurity internship"
 }
